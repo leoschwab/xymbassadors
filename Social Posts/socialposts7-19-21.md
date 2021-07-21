@@ -1,11 +1,11 @@
-https://twitter.com/NEM_Taiwanese/status/1416901848976527362?s=20
-https://twitter.com/NEM_Taiwanese/status/1416771993404280838?s=20
-https://twitter.com/DjCellBlock/status/1416757008406024193?s=20
-https://twitter.com/todo_nem/status/1416754936424062977?s=20
-https://twitter.com/tolga_celik/status/1416728235228991489?s=20
-https://twitter.com/nembear/status/1416370213121978375?s=20
-https://twitter.com/SymbolBlogRO/status/1417172024699535368?s=19
-https://twitter.com/SymbolBlogRO/status/1417173219388366852?s=19
+* https://twitter.com/NEM_Taiwanese/status/1416901848976527362?s=20
+* https://twitter.com/NEM_Taiwanese/status/1416771993404280838?s=20
+* https://twitter.com/DjCellBlock/status/1416757008406024193?s=20
+* https://twitter.com/todo_nem/status/1416754936424062977?s=20
+* https://twitter.com/tolga_celik/status/1416728235228991489?s=20
+* https://twitter.com/nembear/status/1416370213121978375?s=20
+* https://twitter.com/SymbolBlogRO/status/1417172024699535368?s=19
+* https://twitter.com/SymbolBlogRO/status/1417173219388366852?s=19
 
          NEM Core Developers Tweets List
 
