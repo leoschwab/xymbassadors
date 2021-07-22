@@ -6,9 +6,9 @@ Please Drop any Social Links to be promoted here:
 * https://twitter.com/NEM_Taiwanese/status/1417991622311120899?s=20
 * Give this 50 claps: https://medium.com/@sekoyalabs/symbol-node-resource-guide-41237e10a07b
 * Retweet: https://twitter.com/LeonRedinger/status/1418049636561035264?s=20
-* 
-* 
-* 
+* https://twitter.com/eikcimickie/status/1418070144387928069?s=21
+* https://twitter.com/eikcimickie/status/1418102524473614341?s=21
+* https://twitter.com/eikcimickie/status/1417826562334892035?s=21
 * 
 * 
 * 
