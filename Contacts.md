@@ -20,7 +20,7 @@
 | Hexagon | @HexagonTR| hexagontr#1470 |
 | Ana | @ana912 | AnaPikachu912#6226 |
 | David Ham | @Davham | D..H..#5923 |
-| Leon Redinger | t.me/leonRED | twitter.com/leonRED |
+| Leon Redinger | https://t.me/leonRED | LeonRED#1325 | https://twitter.com/leonRED |
 | CryptoBeliever | cryptoBeliever | cryptoBeliever#9169 |
 | Vika | @conphv |
 | Etsuko | @etsukokanetaka | Etsuko#5751 |
