@@ -1,9 +1,10 @@
-English:
+English: https://docs.google.com/forms/d/e/1FAIpQLSc0CO23WY9kRPSFNOsAlmC2Lzr0GErj1ESmYLA9XgJ8yJlNjA/viewform
+
 Bangla: https://docs.google.com/forms/d/e/1FAIpQLSerctG09PW2YdZk6OjazJmTBBf7W0T-H87LOdByLfij68ZhoA/viewform
 
 Italian: https://forms.gle/jSyp23TLkX6ptb1f8
 
-Japanese: https://docs.google.com/forms/d/181wzb5MSRkKUfR0CQMCSR-OoCdC7dud3SlWyQBcN_No/edit?usp=sharing
+Japanese: https://docs.google.com/forms/d/e/1FAIpQLSdOODuM879Ba-W_E-vz2eiIj3_yYsO_oaftWftQq7hwkolewA/viewform
 
 Spanish: https://forms.gle/2soFvJjp8NxBiQVb6
 
