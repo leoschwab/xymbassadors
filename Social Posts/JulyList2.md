@@ -11,7 +11,7 @@ Please Drop any Social Links to be promoted here:
 * https://twitter.com/eikcimickie/status/1417826562334892035?s=21
 * https://twitter.com/FaizulReza1/status/1417823452744937480?s=19
 * https://twitter.com/eikcimickie/status/1418145634163380225?s=20
-* 
+* https://twitter.com/0x6861746366574/status/1418291858640306178?s=20
 * 
 * 
 * 
