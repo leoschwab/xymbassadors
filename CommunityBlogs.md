@@ -1,12 +1,12 @@
-Community Member | URL	| Language
+**Community Member | URL	| Language**
 
-Klim | https://nemnews.io/ |	Russian
-Klim | https://nemitalia.io/ | Italian
-Simon | http://symbolblog.com/ | English
-Chipmunk | http://nemedia.jp | Japanese
-Samiur | http://symbolblogbd.com | Bangladeshi
-Nia | https://nemberindo.com/ | Indonesian
-Chris & Thilon | http://www.itechly.com/ | Simplified Chinese
-Chris & Gandora | https://symboltcnews.com | Traditional Chinese
-Leo | https://symbolportu.com/ | Portuguese
-Carlos & Alexis | https://symbolblogespanol.com/ | Spanish
+* Klim | https://nemnews.io/ |	Russian  
+* Klim | https://nemitalia.io/ | Italian  
+* Simon | http://symbolblog.com/ | English  
+* Chipmunk | http://nemedia.jp | Japanese  
+* Samiur | http://symbolblogbd.com | Bangladeshi  
+* Nia | https://nemberindo.com/ | Indonesian  
+* Chris & Thilon | http://www.itechly.com/ | Simplified Chinese  
+* Chris & Gandora | https://symboltcnews.com | Traditional Chinese  
+* Leo | https://symbolportu.com/ | Portuguese  
+* Carlos & Alexis | https://symbolblogespanol.com/ | Spanish  
