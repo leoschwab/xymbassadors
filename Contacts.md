@@ -77,3 +77,4 @@ Please update your personal information, and include hyperlinks.
 | tim | unknown | tim |#4764 |
 | Xavi | unknown | SegFaultXavi#7921 |
 | Dtbychris | @Dtbychris | Dtbychris#4883 |
+| Faizul Reza | t.me/Faizul_r | Faizul#2779 | https://twitter.com/FaizulReza1 |
