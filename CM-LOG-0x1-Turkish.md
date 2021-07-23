@@ -1,4 +1,4 @@
-# LOG KOMUNITAS INDONESIA 0x1
+# CM-LOG-0x1-Japan.md
 
 [![hackmd-github-sync-badge](https://hackmd.io/5DKQauofReyikmXVboi9fg/badge)](https://hackmd.io/5DKQauofReyikmXVboi9fg)
 
