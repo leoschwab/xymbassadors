@@ -1,4 +1,4 @@
-# CM-LOG-0x1-Japan.md
+# CM-LOG-0x1-Turkish.md
 
 [![hackmd-github-sync-badge](https://hackmd.io/5DKQauofReyikmXVboi9fg/badge)](https://hackmd.io/5DKQauofReyikmXVboi9fg)
 
