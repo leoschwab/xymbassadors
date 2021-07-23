@@ -1,3 +1,12 @@
+[![hackmd-github-sync-badge](https://hackmd.io/5fOxRzy_Q4-RvugFZA4dDA/badge)](https://hackmd.io/5fOxRzy_Q4-RvugFZA4dDA)
+
+# Active Symbol Community Members  
+
+Please follow and subscribe to their social media channels. Doing this will make social media collaboration more efficient. 
+
+Please update your personal information, and include hyperlinks.
+
+
 | Name | Telegram | Discord | Twitter |
 | --------------- | --------------- | --------------- | --------------- |
 | Alessio | @alediemmee | alediemmee#4796 |
