@@ -37,6 +37,10 @@ All of the top search results on youtube are videos demonstrating NEM and XEM as
 ![image](https://user-images.githubusercontent.com/78247431/126856130-a15b27df-38d3-429c-95fb-623676c6c782.png)
 Yahoo:  
 ![image](https://user-images.githubusercontent.com/78247431/126856531-11615559-d911-4864-979d-12586b186326.png)
+Investopedia:  
+![image](https://user-images.githubusercontent.com/78247431/126856653-b315c367-528e-490d-97ed-11ccee93bd06.png)
+Gate dot io:  
+![image](https://user-images.githubusercontent.com/78247431/126856716-b72b58f7-55de-41df-aa90-e41211e7f03c.png)
 
 
 There are countless examples like this. Literally thousands of articles, blogs, and other pieces of information have been published indicating the sameness of NEM and XEM.  
