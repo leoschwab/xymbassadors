@@ -1,4 +1,4 @@
-# COMMUNITY italian LOG 0x1
+# [Italian] COMMUNITY LOG 0x1
 
 Questa è la prima parte di una sessione di domande e risposte divisa in due parti con [Gimre](https://twitter.com/NCOSIGIMCITYNRE), [Hatchet](https://twitter.com/0x6861746366574) & [Jaguar](https://twitter.com/Jaguar0625).
 #
@@ -9,7 +9,7 @@ Durante il lavoro iniziale sulla tokenomics, c'erano alcune ipotesi circa il pre
 Forniremo un rapporto completo al termine della nostra analisi, ma non aspettarti nuovi pagamenti o programmi finché non l'avremo completata.
 
 **02: Alcuni utenti della rete vengono trattati in modo diverso dal resto della community? Se è così, perché?**
-Sì. C'è un canale privato NGL :: SN che ha circa 30-40 "whales". Originariamente doveva essere un canale di breve durata per comunicare i ritardi del progetto con le grandi parti interessate, ma da allora ha perso il suo scopo. Dopo il lancio di Symbol è diventato superfluo e due di noi lo hanno già lasciato. Va contro i nostri principi fondamentali di trasparenza. Ora stiamo spendendo tutto il nostro tempo in [Discord](https://www.discord.gg/xymcity).
+Sì. C'è un canale privato NGL :: SN che ha circa 30-40 "whales". Originariamente doveva essere un canale di breve durata per comunicare i ritardi del progetto con le grandi parti interessate, ma da allora ha perso il suo scopo. Dopo il lancio di Symbol è diventato superfluo e due di noi lo hanno già lasciato. Va contro i nostri principi fondamentali di trasparenza. Ora stiamo spendendo tutto il nostro tempo in [Discord](https://www.disc+ord.gg/xymcity).
 # Tecnologia
 
 **03: Ultimamente, Hatchet ha parlato molto della cross-chaining di chain pubbliche e private. Quali sono esattamente le tue prospettive e mi piacerebbe sentire i tuoi pensieri sull'utilità del cross-chaining XEM/XYM.**
@@ -121,7 +121,7 @@ Le modifiche alla deflazione o all'inflazione non sono cose che si fanno "per ca
 Questa non è responsabilità del team del protocollo, né è una cosa etica per l'ecosistema. Il tuo mercato è una risposta diretta alla salute e alla funzionalità della rete ed interferire con ciò vanifica lo scopo del meccanismo di '[exit and voice](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty)' nelle reti crittografiche.
 Se stai parlando di attività di market making (che aiuta a ridurre la diffusione tra le transazioni), puoi impegnarti in queste attività come utente utilizzando programmi come [Hummingbot](https://docs.hummingbot.io/miner/liquidity-mining/current-rewards&terms/).
 
-# Formazione scolastica
+# Formazione
 **25: Sarebbe bello fornire alcune guide di base e semplici esercizi di programmazione per iniziare con Symbol. C'è molta documentazione disponibile ma non molta per i principianti. Forse qualcuno nel team sarebbe in grado di lavorare su questo?**
 Ti invitiamo a fare una richiesta di richiesta di aggiunta di materiale [qui](https://github.com/symbol/symbol-docs/issues). Incoraggiamo anche la community a partecipare alla creazione di guide: ci sono già alcune fantastiche risorse [qui](https://symbolblog.com/) e la documentazione tecnica ha alcune [guide](https://docs.symbolplatform.com/guides/index.html) per iniziare.
 
