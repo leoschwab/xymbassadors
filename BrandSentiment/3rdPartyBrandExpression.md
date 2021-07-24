@@ -1,4 +1,4 @@
-Please drop screenshots directly into this file, so that during the Town Hall, I can open this single doc to present all the brand expressions in one tab. 
+During the Town Hall, we can open this single doc to present all the brand expressions in one tab. 
 
 By documenting the manner in which our brands are presented by 3rd parties, we can better understand the common language and understanding of those operating within the crypto ecosystem.
 
