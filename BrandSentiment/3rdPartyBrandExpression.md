@@ -33,6 +33,10 @@ Atomic Wallet:
 NEM Flash:  
 This is a blog run by a long time community member. I find this example particularly important, because in this post, he quotes a portion of the telegam pinned message from around the Symbol snapshot & launch. Even then, the message given was that NEM was a blockchain and synonymous with it's token, XEM. We also demonstrated that a new blockchain was going to be release, it has a new name - Symbol (XYM)
 ![image](https://user-images.githubusercontent.com/78247431/126856071-ed1ffda9-c62b-4c6a-b29e-4948f4793f6d.png)
+All of the top search results on youtube are videos demonstrating NEM and XEM as synonymous:
+![image](https://user-images.githubusercontent.com/78247431/126856130-a15b27df-38d3-429c-95fb-623676c6c782.png)
+There are countless examples like this. Literally thousands of articles, blogs, and other pieces of information have been published indicating the sameness of NEM and XEM.  
+![image](https://user-images.githubusercontent.com/78247431/126856419-02a57ec9-bdbd-4d7f-a1ab-96f2b69f4645.png)
 
 
 If we can align our own brand messaging with what is already commonly understood, we can build upon all the literature that exists, avoid expensive and time consuming communications with 3rd parties, and overall create a clear branding environment in which both XEM and XYM can thrive. 
