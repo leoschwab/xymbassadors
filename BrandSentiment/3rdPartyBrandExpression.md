@@ -12,8 +12,16 @@ Trading View:
 ![image](https://user-images.githubusercontent.com/78247431/126855250-57eca265-ca6d-412c-b140-0d1a2e5a0bb7.png)
 MSN:
 ![image](https://user-images.githubusercontent.com/78247431/126855283-d78e872e-f068-44ad-98c9-59ce713dcba5.png)
-Zaif: 
+Zaif:  
 ![image](https://user-images.githubusercontent.com/78247431/126855497-76bd1ece-c099-423a-bbb9-d9474006fd61.png)
+Coincheck:  
+![image](https://user-images.githubusercontent.com/78247431/126855553-48c30d90-583a-4d2a-9136-82ecac00b216.png)
+Coinbase:  
+![image](https://user-images.githubusercontent.com/78247431/126855588-cc2b1d18-019d-400f-8ddf-99700f6be0e3.png)
+Securities . io  
+![image](https://user-images.githubusercontent.com/78247431/126855643-59b62553-c056-4279-a563-08fd8f5b73c6.png)
+Coinjournal:  
+![image](https://user-images.githubusercontent.com/78247431/126855670-b4bf9723-433c-4336-a127-e0a8c3b7ad86.png)
 
 
 If we can align our own brand messaging with what is already commonly understood, we can build upon all the literature that exists, avoid expensive and time consuming communications with 3rd parties, and overall create a clear branding environment in which both XEM and XYM can thrive. 
