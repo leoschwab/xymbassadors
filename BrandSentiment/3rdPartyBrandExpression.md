@@ -26,6 +26,13 @@ Coin360:
 ![image](https://user-images.githubusercontent.com/78247431/126855716-027e05b6-8500-405b-9d61-0c649fee5d7d.png)
 Our own messaging for years implied that NEM = XEM:  There are still many of these crumbs on official sources. 
 ![image](https://user-images.githubusercontent.com/78247431/126855764-d31ac965-8c0e-4ec5-970f-d09722b348e2.png)
+Ledger makes a clear distinction between NEM and Symbol, while still demonstrating the relation:  
+![image](https://user-images.githubusercontent.com/78247431/126855943-2a4b71fb-bdc7-4fc7-bb8d-b92a450ef656.png)
+Atomic Wallet:  
+![image](https://user-images.githubusercontent.com/78247431/126855992-8d20e74a-8ac6-4f9a-82d0-8b62266e11f3.png)
+NEM Flash:  
+This is a blog run by a long time community member. I find this example particularly important, because in this post, he quotes a portion of the telegam pinned message from around the Symbol snapshot & launch. Even then, the message given was that NEM was a blockchain and synonymous with it's token, XEM. We also demonstrated that a new blockchain was going to be release, it has a new name - Symbol (XYM)
+![image](https://user-images.githubusercontent.com/78247431/126856071-ed1ffda9-c62b-4c6a-b29e-4948f4793f6d.png)
 
 
 If we can align our own brand messaging with what is already commonly understood, we can build upon all the literature that exists, avoid expensive and time consuming communications with 3rd parties, and overall create a clear branding environment in which both XEM and XYM can thrive. 
