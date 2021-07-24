@@ -22,6 +22,10 @@ Securities . io
 ![image](https://user-images.githubusercontent.com/78247431/126855643-59b62553-c056-4279-a563-08fd8f5b73c6.png)
 Coinjournal:  
 ![image](https://user-images.githubusercontent.com/78247431/126855670-b4bf9723-433c-4336-a127-e0a8c3b7ad86.png)
+Coin360:  
+![image](https://user-images.githubusercontent.com/78247431/126855716-027e05b6-8500-405b-9d61-0c649fee5d7d.png)
+Our own messaging for years implied that NEM = XEM:  There are still many of these crumbs on official sources. 
+![image](https://user-images.githubusercontent.com/78247431/126855764-d31ac965-8c0e-4ec5-970f-d09722b348e2.png)
 
 
 If we can align our own brand messaging with what is already commonly understood, we can build upon all the literature that exists, avoid expensive and time consuming communications with 3rd parties, and overall create a clear branding environment in which both XEM and XYM can thrive. 
