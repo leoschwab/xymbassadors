@@ -12,6 +12,8 @@ Trading View:
 ![image](https://user-images.githubusercontent.com/78247431/126855250-57eca265-ca6d-412c-b140-0d1a2e5a0bb7.png)
 MSN:
 ![image](https://user-images.githubusercontent.com/78247431/126855283-d78e872e-f068-44ad-98c9-59ce713dcba5.png)
+Zaif: 
+![image](https://user-images.githubusercontent.com/78247431/126855497-76bd1ece-c099-423a-bbb9-d9474006fd61.png)
 
 
 If we can align our own brand messaging with what is already commonly understood, we can build upon all the literature that exists, avoid expensive and time consuming communications with 3rd parties, and overall create a clear branding environment in which both XEM and XYM can thrive. 
