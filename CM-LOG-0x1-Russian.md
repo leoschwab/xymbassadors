@@ -7,6 +7,11 @@
 
 
 ---
+Статья также опубликована на сайте `NEMNEWS` 👉 [ЗДЕСЬ](https://nemnews.io/voprosy-i-otvety-ot-osnovnyh-razrabotchikov-gimre-hatchet-i-jaguar-chast-1/). 
+
+
+---
+
 
 **Программа Супернод**
 
@@ -305,5 +310,4 @@
 
 Ответ: Это больше похоже на компанию, которая использует NIS1 или Symbol.
 
-Статья также опубликована ЗДЕСЬ: 
-👉 [https://nemnews.io/voprosy-i-otvety-ot-osnovnyh-razrabotchikov-gimre-hatchet-i-jaguar-chast-1/](https://nemnews.io/voprosy-i-otvety-ot-osnovnyh-razrabotchikov-gimre-hatchet-i-jaguar-chast-1/)
+
