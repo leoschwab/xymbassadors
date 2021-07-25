@@ -4,7 +4,7 @@ By documenting the manner in which our brands are presented by 3rd parties, we c
 
 CoinMarketCap is the cryptocurrency world's "go-to price checker for as long as anyone can remember," according to Bitcoin.com. There are a number of reasons why this site is the dominant force in the field of price tracker services. These include strong brand awareness, length of time established, and familiarity. As a result, it is the go-to source for investors searching for the latest coin: the one with the most exciting prospects or the one that's the most undervalued. Understanding how Coinmarketcap presents the NEM/NIS1/XEM brand will help us understand our existing brand messaging. 
 
-**They don't know NIS or NIS1**
+**Nobody knows about NIS or NIS1**
 
 Below is a screenshot from the NEM page on Coinmarketcap. This is how the most popular price check site in the world - and all their visitors - see us. As you can see there is no mention of NIS or NIS1 on the page. It is an unknown brand according to Coinmarketcap. The terms "NEM" and "XEM" appear to be used synonymously. It is clear that they see the name of the blockchain as "NEM" and its native token as "XEM".
 ![image](https://user-images.githubusercontent.com/78247431/126914232-45638570-e849-413c-b53d-4757af5aedc7.png)
@@ -37,15 +37,15 @@ So what do other crypto people read when they are trying to get the latest news 
 
 ![image](https://user-images.githubusercontent.com/78247431/126855497-76bd1ece-c099-423a-bbb9-d9474006fd61.png)
 
-**Coincheck:  **
+**Coincheck:**
 
 ![image](https://user-images.githubusercontent.com/78247431/126855553-48c30d90-583a-4d2a-9136-82ecac00b216.png)
 
-**Coinbase:  **
+**Coinbase:**
 
 ![image](https://user-images.githubusercontent.com/78247431/126855588-cc2b1d18-019d-400f-8ddf-99700f6be0e3.png)
 
-**Securities . io  **
+**Securities . io**
 
 ![image](https://user-images.githubusercontent.com/78247431/126855643-59b62553-c056-4279-a563-08fd8f5b73c6.png)
 
@@ -53,7 +53,7 @@ So what do other crypto people read when they are trying to get the latest news 
 
 ![image](https://user-images.githubusercontent.com/78247431/126855670-b4bf9723-433c-4336-a127-e0a8c3b7ad86.png)
 
-**Coin360: ** 
+**Coin360:** 
 
 ![image](https://user-images.githubusercontent.com/78247431/126855716-027e05b6-8500-405b-9d61-0c649fee5d7d.png)
 
@@ -65,11 +65,11 @@ Ledger makes a clear distinction between NEM and Symbol, while still demonstrati
 
 ![image](https://user-images.githubusercontent.com/78247431/126855943-2a4b71fb-bdc7-4fc7-bb8d-b92a450ef656.png)
 
-**Atomic Wallet:  **
+**Atomic Wallet:**
 
 ![image](https://user-images.githubusercontent.com/78247431/126855992-8d20e74a-8ac6-4f9a-82d0-8b62266e11f3.png)
 
-**NEM Flash:  **
+**NEM Flash:**
 
 This is a blog run by a long time community member. I find this example particularly important, because in this post, he quotes a portion of the telegam pinned message from around the Symbol snapshot & launch. Even then, the message given was that NEM was a blockchain and synonymous with its token, XEM. We also demonstrated that a new blockchain was going to be released, it has a new name - Symbol (XYM)
 
@@ -79,11 +79,11 @@ All of the top search results on youtube are videos demonstrating NEM and XEM as
 
 ![image](https://user-images.githubusercontent.com/78247431/126856130-a15b27df-38d3-429c-95fb-623676c6c782.png)
 
-**Yahoo:  **
+**Yahoo:**
 
 ![image](https://user-images.githubusercontent.com/78247431/126856531-11615559-d911-4864-979d-12586b186326.png)
 
-**Investopedia: ** 
+**Investopedia** 
 
 ![image](https://user-images.githubusercontent.com/78247431/126856653-b315c367-528e-490d-97ed-11ccee93bd06.png)
 
@@ -91,11 +91,11 @@ All of the top search results on youtube are videos demonstrating NEM and XEM as
 
 ![image](https://user-images.githubusercontent.com/78247431/126856716-b72b58f7-55de-41df-aa90-e41211e7f03c.png)
 
-**Kucoin:  **
+**Kucoin:**
 
 ![image](https://user-images.githubusercontent.com/78247431/126856810-33d50f71-f831-4739-b8c5-3743492222d9.png)
 
-**Bittrex:  **
+**Bittrex:**
 
 ![image](https://user-images.githubusercontent.com/78247431/126856839-b85f1615-db62-4523-9703-86f03c5bcfdd.png)
 
