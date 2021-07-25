@@ -1,14 +1,18 @@
 By documenting the manner in which our brands are presented by 3rd parties, we can better understand the existing brand messaging. The manner in which our brand is displayed by others shows how they interpret our branding, as well as how their customers are introduced to our brands.
 
-**Coinmarketcap**
+**CoinMarketCap**
 
 CoinMarketCap is the cryptocurrency world's "go-to price checker for as long as anyone can remember," according to Bitcoin.com. There are a number of reasons why this site is the dominant force in the field of price tracker services. These include strong brand awareness, length of time established, and familiarity. As a result, it is the go-to source for investors searching for the latest coin: the one with the most exciting prospects or the one that's the most undervalued. Understanding how Coinmarketcap presents the NEM/NIS1/XEM brand will help us understand our existing brand messaging. 
 
 **They don't know NIS or NIS1**
 
 Below is a screenshot from the NEM page on Coinmarketcap. This is how the most popular price check site in the world - and all their visitors - see us. As you can see there is no mention of NIS or NIS1 on the page. It is an unknown brand according to Coinmarketcap. The terms "NEM" and "XEM" appear to be used synonymously. It is clear that they see the name of the blockchain as "NEM" and its native token as "XEM".
-![image](https://user-images.githubusercontent.com/78247431/126914232-45638570-e849-413c-b53d-4757af5aedc7.png)  
-Coingecko:  
+![image](https://user-images.githubusercontent.com/78247431/126914232-45638570-e849-413c-b53d-4757af5aedc7.png)
+
+**CoinGecko:**
+
+So let's examine the second most popular crypto comparison site in the world: CoinGecko. Just like CoinMarketCap, they see the name of the NIS1 blockchain as being called "NEM" and its native token called "XEM". No mention of NIS or NIS1 again here. They don't know what it is. That means that nobody reading about NEM for the first time will know what NIS/NIS1 is either.
+
 ![image](https://user-images.githubusercontent.com/78247431/126914187-37f24dc2-8197-40ef-9241-4bf32a68b828.png)  
 Cointelegraph has numerous indications of "NEM" being synonymous with "XEM"
 ![image](https://user-images.githubusercontent.com/78247431/126855028-bc53015f-f4ce-4896-b790-fc2031c3b1c3.png)
