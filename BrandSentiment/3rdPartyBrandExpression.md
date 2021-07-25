@@ -2,8 +2,9 @@ During the Town Hall, we can open this single doc to present all the brand expre
 
 By documenting the manner in which our brands are presented by 3rd parties, we can better understand the common language and understanding of those operating within the crypto ecosystem.
 
-![image](https://user-images.githubusercontent.com/78247431/126753276-1600fcf5-ec33-47aa-9e92-f048dc9b2732.png)
-![image](https://user-images.githubusercontent.com/78247431/126854969-efea6e8b-1d09-4752-8f4b-73b63e436de4.png)
+![image](https://user-images.githubusercontent.com/78247431/126753276-1600fcf5-ec33-47aa-9e92-f048dc9b2732.png)  
+Coingecko:  
+![image](https://user-images.githubusercontent.com/78247431/126914187-37f24dc2-8197-40ef-9241-4bf32a68b828.png)  
 Cointelegraph has numerous indications of "NEM" being synonymous with "XEM"
 ![image](https://user-images.githubusercontent.com/78247431/126855028-bc53015f-f4ce-4896-b790-fc2031c3b1c3.png)
 Business Insider
