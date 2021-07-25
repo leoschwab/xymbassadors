@@ -59,9 +59,11 @@ GOOGLE DOC POLL
 
 01.- When you hear "NEM" do you first think...
 
-13	| XEM
-2	| XYM
-6   | XEM & XYM
+13	- XEM
+
+2	- XYM
+
+6   - XEM & XYM
 
 
 Before the advent of Symbol, the ecosystem was perceived as: NEM or NIS1 as a blockchain and the XEM ticker as a utility token. Most Russian-speaking users understand that there is one NEM ecosystem, but with two blockchains, each with its own ticker, for NEM it is XEM, and for Symbol it is XYM.
@@ -70,17 +72,20 @@ Before the advent of Symbol, the ecosystem was perceived as: NEM or NIS1 as a bl
 ----
 02.- When you hear "Symbol" do you first think...
 
-1	| XEM
-16  | XYM
-4	| XEM & XYM
+1	- XEM
+
+16  - XYM
+
+4	- XEM & XYM
 
 Users associate Symbol with their XYM utility token rather than with NEM - XEM. New users are more interested in Symbol and XYM, for receiving coins in connection with the snapshot.
 
 ----
 03.- Should "NEM" be rebranded?
 
-4	| Yes
-17	| No
+4	- Yes
+
+17	- No
 
 Most of the Russian-speaking user thinks that we shouldn't change the NEM brand.
 
@@ -88,16 +93,18 @@ Most of the Russian-speaking user thinks that we shouldn't change the NEM brand.
 ----
 04.- Should "NIS1" be rebranded?
 
-12	| Yes
-8	| No
+12	- Yes
+
+8	- No
 
 Russian-speaking users assume that attitudes towards NIS1 need to be changed: 12 users think so, and 8 users do not want to change it.
 
 ----
 05.- Should "Symbol" be rebranded?
 
-3	| Yes
-17	| No
+3	- Yes
+
+17	- No
 
 
 85% of the surveyed users believe that the Symbol brand should not be changed, but should be preserved. This means that Symbol is easier to associate with the XYM ticker.
@@ -105,16 +112,18 @@ Russian-speaking users assume that attitudes towards NIS1 need to be changed: 12
 ----
 06.- Which would you prefer to see more of?
 
-18	| Symbol
-3	| NEM
+18	- Symbol
+
+3	- NEM
 
 Almost all 18 out of 21 want to know more about Symbol, as Symbol is the second iteration of the NEM blockchain (next phase of the ecosystem).
 
 ----
 07.- Which brand should be the Flagship brand? (Priority focus)
 
-16	| Symbol
-4	| NEM
+16	- Symbol
+
+4	- NEM
 
 
 If we are talking about what brand should be as a flagship, then Symbol is in the spotlight.
@@ -122,9 +131,11 @@ If we are talking about what brand should be as a flagship, then Symbol is in th
 ----
 08.- Do you refer to Symbol as:
 
-3	| NEM Symbol
-11        | Symbol by NEM
-6          | NEM Symbol
+3	- NEM Symbol
+
+11  - Symbol by NEM
+
+6    - NEM Symbol
 
 More users regard Symbol as a “Symbol by/from NEM” than all others combined.
 
