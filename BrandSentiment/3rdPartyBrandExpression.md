@@ -64,8 +64,8 @@ By reviewing the NEM & Symbol brand expression by 3rd parties, it is clear that 
 
 Based on all the information collected, the suggested path forward looks like:
 
-• NEM is the blockchain. XEM is it's native coin.  
-• Symbol is the blockchain. XYM is it's native coin.  
+• NEM is the blockchain. XEM is its native coin.  
+• Symbol is the blockchain. XYM is its native coin.  
 • Put focus on Symbol brand building.  
 • "NEM" will continue as a brand, but considering it is to be a subchain of Symbol, it is not deserving of brand focus.  
 • "NIS1" is not to be a part of the branding. It is the name of the client, as catapult is the name of the Symbol client.  
