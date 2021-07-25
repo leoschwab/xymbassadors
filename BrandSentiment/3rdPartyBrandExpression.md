@@ -23,13 +23,19 @@ So what do other crypto people read when they are trying to get the latest news 
 
 **Business Insider**
 
+Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007 by former top-ranked Wall Street analyst Henry Blodget and DoubleClick executives Dwight Merriman and Kevin Ryan, the site is now the largest business news site on the web. Both they and all of their readers do not know that NIS/NIS1 exists either. They use NEM to refer to the blockchain and XEM to refer to the token. 
+
 ![image](https://user-images.githubusercontent.com/78247431/126855087-059019d3-ee97-404a-9476-66a2e09822b0.png)
 
-**Trading View:**
+**TradingView:**
+
+Another big source of sentiment on NIS/NIS1 brand awareness. The TradingView social network of 30 million traders and investors using charts and analysis tools to spot opportunity in global markets. Often used by traders to follow favorite assets, find trading ideas, chat with others, spot trends, and place trades. Both they and all of their readers do not know that NIS/NIS1 exists either. They use NEM to refer to the blockchain and XEM to refer to the token. 
 
 ![image](https://user-images.githubusercontent.com/78247431/126855250-57eca265-ca6d-412c-b140-0d1a2e5a0bb7.png)
 
 **MSN:**
+
+550 million monthly readers. 180 countries. 31 languages. And $1B in sustainable revenue returned to the news industry since 2014. Both they and all of their readers do not know that NIS/NIS1 exists either. They use NEM to refer to the blockchain and XEM to refer to the token. 
 
 ![image](https://user-images.githubusercontent.com/78247431/126855283-d78e872e-f068-44ad-98c9-59ce713dcba5.png)
 
