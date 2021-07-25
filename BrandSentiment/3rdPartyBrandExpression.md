@@ -2,7 +2,7 @@ By documenting the manner in which our brands are presented by 3rd parties, we c
 
 **Coinmarketcap**
 
-CoinMarketCap is the cryptocurrency world's "go-to price checker for as long as anyone can remember," according to Bitcoin.com. There are a number of reasons why this site is the dominant force in the field of price tracker services, including strong brand awareness, length of time established, and familiarity. As a result, it is the go-to source for investors searching for the latest coin: the one with the most exciting prospects or the one that's the most undervalued. Understanding how Coinmarketcap presents the NEM/NIS1/XEM brand will help us understand our existing brand messaging. 
+CoinMarketCap is the cryptocurrency world's "go-to price checker for as long as anyone can remember," according to Bitcoin.com. There are a number of reasons why this site is the dominant force in the field of price tracker services. These include strong brand awareness, length of time established, and familiarity. As a result, it is the go-to source for investors searching for the latest coin: the one with the most exciting prospects or the one that's the most undervalued. Understanding how Coinmarketcap presents the NEM/NIS1/XEM brand will help us understand our existing brand messaging. 
 
 **They don't know NIS or NIS1**
 
