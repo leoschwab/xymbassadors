@@ -6,7 +6,7 @@ CoinMarketCap is the cryptocurrency world's "go-to price checker for as long as 
 
 **They don't know NIS or NIS1**
 
-Below is a screenshot from the NEM page on Coinmarketcap. This is how they see us. As you can see there is no mention of NIS or NIS1 on the page. It is an unknown brand according to Coinmarketcap. The terms "NEM" and "XEM" appear to be used synonymously. It is clear that they see the name of the blockchain as "NEM" and its native token as "XEM". That is how NIS1 is known on the most popular crypto price check site in the world.
+Below is a screenshot from the NEM page on Coinmarketcap. This is how the most popular price check site in the world - and all their visitors - see us. As you can see there is no mention of NIS or NIS1 on the page. It is an unknown brand according to Coinmarketcap. The terms "NEM" and "XEM" appear to be used synonymously. It is clear that they see the name of the blockchain as "NEM" and its native token as "XEM".
 ![image](https://user-images.githubusercontent.com/78247431/126914232-45638570-e849-413c-b53d-4757af5aedc7.png)  
 Coingecko:  
 ![image](https://user-images.githubusercontent.com/78247431/126914187-37f24dc2-8197-40ef-9241-4bf32a68b828.png)  
