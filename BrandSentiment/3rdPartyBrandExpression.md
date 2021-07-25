@@ -1,8 +1,7 @@
-During the Town Hall, we can open this single doc to present all the brand expressions in one tab. 
+By documenting the manner in which our brands are presented by 3rd parties, we can better understand the existing brand messaging. The manner in which our brand is displayed by others shows how they interpret our branding, as well as how their customers are introduced to our brands.
 
-By documenting the manner in which our brands are presented by 3rd parties, we can better understand the common language and understanding of those operating within the crypto ecosystem.
-
-![image](https://user-images.githubusercontent.com/78247431/126753276-1600fcf5-ec33-47aa-9e92-f048dc9b2732.png)  
+Coinmarketcap
+![image](https://user-images.githubusercontent.com/78247431/126914232-45638570-e849-413c-b53d-4757af5aedc7.png)  
 Coingecko:  
 ![image](https://user-images.githubusercontent.com/78247431/126914187-37f24dc2-8197-40ef-9241-4bf32a68b828.png)  
 Cointelegraph has numerous indications of "NEM" being synonymous with "XEM"
@@ -65,13 +64,13 @@ By reviewing the NEM & Symbol brand expression by 3rd parties, it is clear that 
 
 Based on all the information collected, the suggested path forward looks like:
 
-• NEM is the blockchain. XEM is the native coin.  
-• Symbol is the blockchain. XYM is the native coin.  
+• NEM is the blockchain. XEM is it's native coin.  
+• Symbol is the blockchain. XYM is it's native coin.  
 • Put focus on Symbol brand building.  
 • "NEM" will continue as a brand, but considering it is to be a subchain of Symbol, it is not deserving of brand focus.  
-• "NIS1" is not to be a part of the branding. It is the name of the client, like catapult is the name of the Symbol client.  
+• "NIS1" is not to be a part of the branding. It is the name of the client, as catapult is the name of the Symbol client.  
 • "NEM" can be used synonymously with "XEM", just as "Ethereum" is synonymous with "ETH". If someone says "I can pay you with Cardano" - we know they intend to pay with ADA.  
-We want the same clarity with our brands. If someone says "I'm going to buy Symbol" - it's obvious they are buying XYM.   
+We want the same clarity with our brands. If someone says "I hold NEM" - it's obvious they have XEM. And if they ask "How can I stake Symbol" - It's clear the question is regarding XYM Harvesting. 
 Likewise, when news about Symbol is released, it will be released as news about Symbol - Not as news "from NEM" or "by NEM"  
 Even if some want that to be the case, there is no longer a primary NEM branded entity in which the news can be released by.   
   
