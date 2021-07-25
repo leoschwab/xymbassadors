@@ -1,6 +1,10 @@
+# [Russian] COMMUNITY LOG 0x1
+
+
+---
+
 # Вопросы и ответы от основных разработчиков Gimre, Hatchet и Jaguar. (ЧАСТЬ 1)
 
-**COMMUNITY LOG 0x1**
 
 ---
 
