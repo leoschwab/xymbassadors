@@ -7,6 +7,7 @@ CoinMarketCap is the cryptocurrency world's "go-to price checker for as long as 
 **Nobody knows about NIS or NIS1**
 
 Below is a screenshot from the NEM page on Coinmarketcap. This is how the most popular price check site in the world - and all their visitors - see us. As you can see there is no mention of NIS or NIS1 on the page. It is an unknown brand according to Coinmarketcap. The terms "NEM" and "XEM" appear to be used synonymously. It is clear that they see the name of the blockchain as "NEM" and its native token as "XEM".
+
 ![image](https://user-images.githubusercontent.com/78247431/126914232-45638570-e849-413c-b53d-4757af5aedc7.png)
 
 **CoinGecko:**
@@ -39,27 +40,39 @@ Another big source of sentiment on NIS/NIS1 brand awareness. The TradingView soc
 
 ![image](https://user-images.githubusercontent.com/78247431/126855283-d78e872e-f068-44ad-98c9-59ce713dcba5.png)
 
-**Zaif:**  
+**Zaif:**
+
+Zaif is a prominent Japanese cryptocurrency exchange, and one of those licensed and regulated by the Japanese Financial Services Agency (FSA).[2
 
 ![image](https://user-images.githubusercontent.com/78247431/126855497-76bd1ece-c099-423a-bbb9-d9474006fd61.png)
 
 **Coincheck:**
 
+Coincheck is a cryptocurrency exchange and digital wallet company. It was founded in 2012 and is headquartered in Tokyo, Japan.
+
 ![image](https://user-images.githubusercontent.com/78247431/126855553-48c30d90-583a-4d2a-9136-82ecac00b216.png)
 
 **Coinbase:**
+
+Coinbase is arguably the world’s largest cryptocurrency exchange, with over 56 million users across 100+ countries worldwide.
 
 ![image](https://user-images.githubusercontent.com/78247431/126855588-cc2b1d18-019d-400f-8ddf-99700f6be0e3.png)
 
 **Securities . io**
 
+Securities.io is the leading news website for security tokens and STOs. 
+
 ![image](https://user-images.githubusercontent.com/78247431/126855643-59b62553-c056-4279-a563-08fd8f5b73c6.png)
 
-**Coinjournal:**  
+**Coinjournal:** 
+
+Established in 2014, CoinJournal was set up to help educate and inform people about all of the amazing technological advances that cryptocurrency and the blockchain are providing.
 
 ![image](https://user-images.githubusercontent.com/78247431/126855670-b4bf9723-433c-4336-a127-e0a8c3b7ad86.png)
 
 **Coin360:** 
+
+COIN360 is a cryptocurrency and crypto exchange live data aggregator. Their goal is to deliver vital market data in a visually engaging manner. 
 
 ![image](https://user-images.githubusercontent.com/78247431/126855716-027e05b6-8500-405b-9d61-0c649fee5d7d.png)
 
