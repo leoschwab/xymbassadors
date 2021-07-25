@@ -4,6 +4,8 @@ By documenting the manner in which our brands are presented by 3rd parties, we c
 
 CoinMarketCap is the cryptocurrency world's "go-to price checker for as long as anyone can remember," according to Bitcoin.com. There are a number of reasons why this site is the dominant force in the field of price tracker services, including strong brand awareness, length of time established, and familiarity. As a result, it is the go-to source for investors searching for the latest coin: the one with the most exciting prospects or the one that's the most undervalued. Understanding how Coinmarketcap presents the NEM/NIS1/XEM brand will help us understand our existing brand messaging. 
 
+**They don't know NIS or NIS1**
+
 Below is a screenshot from the NEM page on Coinmarketcap. This is how they see us. As you can see there is no mention of NIS or NIS1 on the page. It is an unknown brand according to Coinmarketcap. The terms "NEM" and "XEM" appear to be used synonymously. It is clear that they see the name of the blockchain as "NEM" and its native token as "XEM". That is how NIS1 is known on the most popular crypto price check site in the world.
 ![image](https://user-images.githubusercontent.com/78247431/126914232-45638570-e849-413c-b53d-4757af5aedc7.png)  
 Coingecko:  
