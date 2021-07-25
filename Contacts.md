@@ -13,18 +13,18 @@ Please update your personal information, and include hyperlinks.
 | Tolga | @Tlgacelkkk | Tolga28#2725 |
 | CB | @C2daB | C2daB#1651 |
 | Oliver | @OliverMuldoon | OliverCrypto#9982 |
-| Samiur | @himel234 | Samiur#2511 |
+| Samiur | @himel234 | Samiur#2511 |https://twitter.com/SamiurR76186237
 | Hatchet | @OhGodAGirl | OhGodAGirl#8787 |
 | Navid | @ypmaster | navid#5790 |
 | Nia | @niaShaa | Niashaa#4165 |
-| Alexis | @psputnik | psputnik#2769 |
+| Alexis | @psputnik | psputnik#2769 | @NEM_bol
 | Carlos | @Oldskull1982 | OldSkull1982#1973 |
 | Leo | @leoschwab | leoschwab#0173 |
-| Klim | @klimgeran | klimgeran#4414 |
+| Klim | [klimgeran](https://t.me/klimgeran) | klimgeran#4414 |https://twitter.com/GeranKlim
 | Abderrahmane | @Bouterfaya | Abderrahmanebouterfaya#7076 |
 | DTBYChris | @dtbychris | Dtbychris#4883 |
 | Angel | @angelnem | angelnem#3452 |
-| Johnny | @JohnnyTongki | Johnny77#6191 |
+| Johnny | @JohnnyTongki | Johnny77#6191 |https://twitter.com/TongkiJohnny
 | Mikun | @mikunNEM | mikunNEM#6130 |
 | Hexagon | @HexagonTR| hexagontr#1470 |
 | Ana | @ana912 | AnaPikachu912#6226 |
