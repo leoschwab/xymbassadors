@@ -64,18 +64,19 @@ By reviewing the NEM & Symbol brand expression by 3rd parties, it is clear that 
 
 Based on all the information collected, the suggested path forward looks like:
 
-• NEM is the blockchain. XEM is the native coin
-• Symbol is the blockchain. XYM is the native coin.
-• Put focus on Symbol brand building.
-• "NEM" will continue as a brand, but considering it is to be a subchain of Symbol, it is not deserving of brand focus. 
-• "NIS1" is not to be a part of the branding. It is the name of the client, like catapult is the name of the Symbol client. 
-• "NEM" can be used synonymously with "XEM", just as "Ethereum" is synonymous with "ETH". If someone says "I'm going to buy Cardano" - we know they will buy ADA. We want the same clarity with our brands. If someone says "I'm going to buy Symbol" - it's obvious they are buying XYM. 
-Likewise, when news about Symbol is released, it will be released as news about Symbol - Not as news "from NEM" or "by NEM"
-Even if some want that to be the case, there is no longer a primary NEM branded entity in which the news can be released by. 
-
-The developers that built NEM also built Symbol. NEM is a part of the Symbol story, and always will be. The Symbol brand will build off that reputation - but we don't have to, and we can't, tell the entire story and history of something via branding.
-
-There was considerable support for a "rebrand" of NEM. Perhaps after the initial steps to advance Symbol branding, if they choose to, the community can explore what a rebrand of "NEM" or "NIS1" would look like.
-A rebrand may or may not include a name change. It could merely be an update to brand colors and imagery. 
-
-Ultimately this would require community effort and funding to advance, taking into consideration the 100s of integrations, thousands of media articles, and countless other information pieces with existing NEM branding.
+• NEM is the blockchain. XEM is the native coin.  
+• Symbol is the blockchain. XYM is the native coin.  
+• Put focus on Symbol brand building.  
+• "NEM" will continue as a brand, but considering it is to be a subchain of Symbol, it is not deserving of brand focus.  
+• "NIS1" is not to be a part of the branding. It is the name of the client, like catapult is the name of the Symbol client.  
+• "NEM" can be used synonymously with "XEM", just as "Ethereum" is synonymous with "ETH". If someone says "I can pay you with Cardano" - we know they intend to pay with ADA.  
+We want the same clarity with our brands. If someone says "I'm going to buy Symbol" - it's obvious they are buying XYM.   
+Likewise, when news about Symbol is released, it will be released as news about Symbol - Not as news "from NEM" or "by NEM"  
+Even if some want that to be the case, there is no longer a primary NEM branded entity in which the news can be released by.   
+  
+The developers that built NEM also built Symbol. NEM is a part of the Symbol story, and always will be. The Symbol brand will build off that reputation - but we don't have to, and we can't, tell the entire story and history of something via branding.  
+  
+There was considerable support for a "rebrand" of NEM. Perhaps after the initial steps to advance Symbol branding, if they choose to, the community can explore what a rebrand of "NEM" or "NIS1" would look like.  
+A rebrand may or may not include a name change. It could merely be an update to brand colors and imagery.  
+  
+Ultimately this would require community effort and funding to advance, taking into consideration the 100s of integrations, thousands of media articles, and countless other information pieces with existing NEM branding.  
