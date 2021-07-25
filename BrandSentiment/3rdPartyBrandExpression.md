@@ -104,17 +104,25 @@ All of the top search results on youtube are videos demonstrating NEM and XEM as
 
 **Investopedia** 
 
+Investopedia is a financial website headquartered in New York City. Founded in 1999, Investopedia provides investment dictionaries, advice, reviews, ratings, and comparisons of financial products such as securities accounts. Investopedia has more than 32,000 articles and reaches 20 million unique monthly viewers.
+
 ![image](https://user-images.githubusercontent.com/78247431/126856653-b315c367-528e-490d-97ed-11ccee93bd06.png)
 
 **Gate dot io:**  
+
+Gate.io is one of the global top 10 cryptocurrency exchanges with authentic trading volume. 
 
 ![image](https://user-images.githubusercontent.com/78247431/126856716-b72b58f7-55de-41df-aa90-e41211e7f03c.png)
 
 **Kucoin:**
 
+Kucoin is one of the world's best known cryptocurrency exchanges.
+
 ![image](https://user-images.githubusercontent.com/78247431/126856810-33d50f71-f831-4739-b8c5-3743492222d9.png)
 
 **Bittrex:**
+
+Bittrex is one of the world's best known cryptocurrency exchanges.
 
 ![image](https://user-images.githubusercontent.com/78247431/126856839-b85f1615-db62-4523-9703-86f03c5bcfdd.png)
 
