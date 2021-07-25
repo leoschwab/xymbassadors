@@ -42,7 +42,7 @@ Another big source of sentiment on NIS/NIS1 brand awareness. The TradingView soc
 
 **Zaif:**
 
-Zaif is a prominent Japanese cryptocurrency exchange, and one of those licensed and regulated by the Japanese Financial Services Agency (FSA).[2
+Zaif is a prominent Japanese cryptocurrency exchange, and one of those licensed and regulated by the Japanese Financial Services Agency (FSA).
 
 ![image](https://user-images.githubusercontent.com/78247431/126855497-76bd1ece-c099-423a-bbb9-d9474006fd61.png)
 
@@ -134,7 +134,8 @@ There are countless examples like this. Literally thousands of articles, blogs, 
 
 If we can align our own brand messaging with what is already commonly understood, we can build upon all the literature that exists, avoid expensive and time consuming communications with 3rd parties, and overall create a clear branding environment in which both XEM and XYM can thrive. 
 
-Conclusion:
+**Conclusion:**
+
 There is a strong commonality between the questionnaires. About 75% support putting brand focus on Symbol, and want to see more Symbol branded content, products, and use cases rather than have them NEM branded.
 
 About 50% said they support rebranding "NEM", and 65% support rebranding "NIS1"
@@ -157,6 +158,7 @@ Even if some want that to be the case, there is no longer a primary NEM branded 
 The developers that built NEM also built Symbol. NEM is a part of the Symbol story, and always will be. The Symbol brand will build off that reputation - but we don't have to, and we can't, tell the entire story and history of something via branding.  
   
 There was considerable support for a "rebrand" of NEM. Perhaps after the initial steps to advance Symbol branding, if they choose to, the community can explore what a rebrand of "NEM" or "NIS1" would look like.  
+
 A rebrand may or may not include a name change. It could merely be an update to brand colors and imagery.  
   
 Ultimately this would require community effort and funding to advance, taking into consideration the 100s of integrations, thousands of media articles, and countless other information pieces with existing NEM branding.  
