@@ -11,7 +11,7 @@ Below is a screenshot from the NEM page on Coinmarketcap. This is how the most p
 
 **CoinGecko:**
 
-So let's examine the second most popular crypto comparison site in the world: CoinGecko. Just like CoinMarketCap, they see the name of the NIS1 blockchain as being called "NEM" and its native token called "XEM". No mention of NIS or NIS1 again here. They don't know what it is. That means that nobody reading about NEM for the first time will know what NIS/NIS1 is either.
+So let's examine the second most popular crypto comparison site in the world: CoinGecko. Just like CoinMarketCap, they see the name of the NIS1 blockchain as being called "NEM" and its native token called "XEM". No mention of NIS or NIS1 again here. They don't know what it is. That means that nobody reading about NEM for the first time at CoinGecko will know what NIS/NIS1 is either.
 
 ![image](https://user-images.githubusercontent.com/78247431/126914187-37f24dc2-8197-40ef-9241-4bf32a68b828.png)  
 Cointelegraph has numerous indications of "NEM" being synonymous with "XEM"
