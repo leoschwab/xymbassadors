@@ -1,6 +1,7 @@
 # The rule-book translation (Russian)
 # [Перевод правил сервера дискорд Symbol]
 
+![logo1](https://i.imgur.com/dtTs1Pz.gif)
 
 ---
 
@@ -28,6 +29,7 @@
 
 Пожалуйста, не разочаровывайте "Моральный компас".
 
+![logo2](https://i.imgur.com/KH2aUya.png)
 
 
 
