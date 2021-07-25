@@ -23,7 +23,7 @@ So what do other crypto people read when they are trying to get the latest news 
 
 **Business Insider**
 
-Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007 by former top-ranked Wall Street analyst Henry Blodget and DoubleClick executives Dwight Merriman and Kevin Ryan, the site is now the largest business news site on the web. Both they and all of their readers do not know that NIS/NIS1 exists either. They use NEM to refer to the blockchain and XEM to refer to the token. 
+Business Insider is a fast-growing business site with deep financial, media, tech, and other industry verticals. Launched in 2007 by former top-ranked Wall Street analyst Henry Blodget and DoubleClick executives Dwight Merriman and Kevin Ryan, the site is now the largest business news site on the web. Both they and all of their readers do not know that NIS/NIS1 exists either. They use NEM to refer to the blockchain AND the token. They don't use XEM, which is a bit odd.  
 
 ![image](https://user-images.githubusercontent.com/78247431/126855087-059019d3-ee97-404a-9476-66a2e09822b0.png)
 
