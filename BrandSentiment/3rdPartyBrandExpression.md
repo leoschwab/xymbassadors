@@ -14,46 +14,89 @@ Below is a screenshot from the NEM page on Coinmarketcap. This is how the most p
 So let's examine the second most popular crypto comparison site in the world: CoinGecko. Just like CoinMarketCap, they see the name of the NIS1 blockchain as being called "NEM" and its native token called "XEM". No mention of NIS or NIS1 again here. They don't know what it is. That means that nobody reading about NEM for the first time at CoinGecko will know what NIS/NIS1 is either.
 
 ![image](https://user-images.githubusercontent.com/78247431/126914187-37f24dc2-8197-40ef-9241-4bf32a68b828.png)  
-Cointelegraph has numerous indications of "NEM" being synonymous with "XEM"
+
+**Cointelegraph**
+
+So what do other crypto people read when they are trying to get the latest news on what's going on? Cointelegraph is a very popular resource. Founded in 2013, it is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, and emerging fintech trends. Yet again, as shown in the example here, there are numerous indications of "NEM" being synonymous with "XEM". That is how Cointelegraph and its readership see NEM and XEM. They don't know that NIS1 exists, it seems.
+
 ![image](https://user-images.githubusercontent.com/78247431/126855028-bc53015f-f4ce-4896-b790-fc2031c3b1c3.png)
-Business Insider
+
+**Business Insider**
+
 ![image](https://user-images.githubusercontent.com/78247431/126855087-059019d3-ee97-404a-9476-66a2e09822b0.png)
-Trading View:
+
+**Trading View:**
+
 ![image](https://user-images.githubusercontent.com/78247431/126855250-57eca265-ca6d-412c-b140-0d1a2e5a0bb7.png)
-MSN:
+
+**MSN:**
+
 ![image](https://user-images.githubusercontent.com/78247431/126855283-d78e872e-f068-44ad-98c9-59ce713dcba5.png)
-Zaif:  
+
+**Zaif:**  
+
 ![image](https://user-images.githubusercontent.com/78247431/126855497-76bd1ece-c099-423a-bbb9-d9474006fd61.png)
-Coincheck:  
+
+**Coincheck:  **
+
 ![image](https://user-images.githubusercontent.com/78247431/126855553-48c30d90-583a-4d2a-9136-82ecac00b216.png)
-Coinbase:  
+
+**Coinbase:  **
+
 ![image](https://user-images.githubusercontent.com/78247431/126855588-cc2b1d18-019d-400f-8ddf-99700f6be0e3.png)
-Securities . io  
+
+**Securities . io  **
+
 ![image](https://user-images.githubusercontent.com/78247431/126855643-59b62553-c056-4279-a563-08fd8f5b73c6.png)
-Coinjournal:  
+
+**Coinjournal:**  
+
 ![image](https://user-images.githubusercontent.com/78247431/126855670-b4bf9723-433c-4336-a127-e0a8c3b7ad86.png)
-Coin360:  
+
+**Coin360: ** 
+
 ![image](https://user-images.githubusercontent.com/78247431/126855716-027e05b6-8500-405b-9d61-0c649fee5d7d.png)
+
 Our own messaging for years implied that NEM = XEM:  There are still many of these crumbs on official sources. 
+
 ![image](https://user-images.githubusercontent.com/78247431/126855764-d31ac965-8c0e-4ec5-970f-d09722b348e2.png)
+
 Ledger makes a clear distinction between NEM and Symbol, while still demonstrating the relation:  
+
 ![image](https://user-images.githubusercontent.com/78247431/126855943-2a4b71fb-bdc7-4fc7-bb8d-b92a450ef656.png)
-Atomic Wallet:  
+
+**Atomic Wallet:  **
+
 ![image](https://user-images.githubusercontent.com/78247431/126855992-8d20e74a-8ac6-4f9a-82d0-8b62266e11f3.png)
-NEM Flash:  
-This is a blog run by a long time community member. I find this example particularly important, because in this post, he quotes a portion of the telegam pinned message from around the Symbol snapshot & launch. Even then, the message given was that NEM was a blockchain and synonymous with it's token, XEM. We also demonstrated that a new blockchain was going to be release, it has a new name - Symbol (XYM)
+
+**NEM Flash:  **
+
+This is a blog run by a long time community member. I find this example particularly important, because in this post, he quotes a portion of the telegam pinned message from around the Symbol snapshot & launch. Even then, the message given was that NEM was a blockchain and synonymous with its token, XEM. We also demonstrated that a new blockchain was going to be released, it has a new name - Symbol (XYM)
+
 ![image](https://user-images.githubusercontent.com/78247431/126856071-ed1ffda9-c62b-4c6a-b29e-4948f4793f6d.png)
+
 All of the top search results on youtube are videos demonstrating NEM and XEM as synonymous:
+
 ![image](https://user-images.githubusercontent.com/78247431/126856130-a15b27df-38d3-429c-95fb-623676c6c782.png)
-Yahoo:  
+
+**Yahoo:  **
+
 ![image](https://user-images.githubusercontent.com/78247431/126856531-11615559-d911-4864-979d-12586b186326.png)
-Investopedia:  
+
+**Investopedia: ** 
+
 ![image](https://user-images.githubusercontent.com/78247431/126856653-b315c367-528e-490d-97ed-11ccee93bd06.png)
-Gate dot io:  
+
+**Gate dot io:**  
+
 ![image](https://user-images.githubusercontent.com/78247431/126856716-b72b58f7-55de-41df-aa90-e41211e7f03c.png)
-Kucoin:  
+
+**Kucoin:  **
+
 ![image](https://user-images.githubusercontent.com/78247431/126856810-33d50f71-f831-4739-b8c5-3743492222d9.png)
-Bittrex:  
+
+**Bittrex:  **
+
 ![image](https://user-images.githubusercontent.com/78247431/126856839-b85f1615-db62-4523-9703-86f03c5bcfdd.png)
 
 
