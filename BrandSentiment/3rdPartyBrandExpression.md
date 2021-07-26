@@ -131,6 +131,21 @@ There are countless examples like this. Literally thousands of articles, blogs, 
 ![image](https://user-images.githubusercontent.com/78247431/126856419-02a57ec9-bdbd-4d7f-a1ab-96f2b69f4645.png)
 ![image](https://user-images.githubusercontent.com/78247431/126856482-70d05fba-6be3-4cd0-9cff-d3f7ded9de25.png)
 
+Case studies
+
+Problems with branding are nothing new in the crypto/blockchain world. Therefore it may be instructive to see how other other communities handled the challenge.
+
+**Polygon**
+
+With Polygon, this was originally known as MATIC.
+
+**Antshares**
+
+Insert text here
+
+**Firo**
+
+Insert text here
 
 If we can align our own brand messaging with what is already commonly understood, we can build upon all the literature that exists, avoid expensive and time consuming communications with 3rd parties, and overall create a clear branding environment in which both XEM and XYM can thrive. 
 
