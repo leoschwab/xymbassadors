@@ -23,7 +23,7 @@ Chinese: https://t.co/0kiCMBiByt?amp=1
   View Results: https://docs.google.com/forms/d/e/1FAIpQLScpH5AMIwvP4EwiJg9c4h_NXoMSARBYQS_WdJDbG5tLFhlwQA/viewanalytics  
   
 Taglog: https://docs.google.com/forms/d/e/1FAIpQLSe97i0fexUxel7uK9BspLTyqaKI9YGmahvwfRXN1NM0YTkVAQ/viewform
-  View Results:
+  View Results:https://docs.google.com/forms/d/e/1FAIpQLSe97i0fexUxel7uK9BspLTyqaKI9YGmahvwfRXN1NM0YTkVAQ/viewanalytics  
   
 Portuguese: https://forms.gle/GtcuimmG2EZaZVYa9
   View Results:
