@@ -20,7 +20,7 @@ Indonesian: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD
   View Results: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD06soqmH2Uw1y-lp7YCU3ow/viewanalytics  
   
 Chinese: https://t.co/0kiCMBiByt?amp=1  
-  View Results:
+  View Results: https://docs.google.com/forms/d/e/1FAIpQLScpH5AMIwvP4EwiJg9c4h_NXoMSARBYQS_WdJDbG5tLFhlwQA/viewanalytics  
   
 Taglog: https://docs.google.com/forms/d/e/1FAIpQLSe97i0fexUxel7uK9BspLTyqaKI9YGmahvwfRXN1NM0YTkVAQ/viewform
   View Results:
