@@ -177,3 +177,7 @@ There was considerable support for a "rebrand" of NEM. Perhaps after the initia
 A rebrand may or may not include a name change. It could merely be an update to brand colors and imagery.  
   
 Ultimately this would require community effort and funding to advance, taking into consideration the 100s of integrations, thousands of media articles, and countless other information pieces with existing NEM branding.  
+
+**Questions**
+
+We'll just take a few minutes now at the end to field any questions. 
