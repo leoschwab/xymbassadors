@@ -139,6 +139,13 @@ There are countless examples like this. Literally thousands of articles, blogs, 
 ![image](https://user-images.githubusercontent.com/78247431/126856419-02a57ec9-bdbd-4d7f-a1ab-96f2b69f4645.png)
 ![image](https://user-images.githubusercontent.com/78247431/126856482-70d05fba-6be3-4cd0-9cff-d3f7ded9de25.png)
 
+**Blockfolio**
+
+Blockfolio is the leading network for mobile cryptocurrency portfolio tracking and management.
+
+![image](https://user-images.githubusercontent.com/87348698/126991767-7f5262e2-697b-4e28-846a-671228ba19a7.png)
+![image](https://user-images.githubusercontent.com/87348698/126991802-a927dc7f-7dd2-47ce-85a8-2f88f9092f25.png)
+
 Case studies
 
 Problems with branding are nothing new in the crypto/blockchain world. Therefore it may be instructive to see how other other communities handled the challenge.
