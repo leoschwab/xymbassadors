@@ -20,11 +20,11 @@ Q01.- あなたが "NEM" と聞いたとき、一番最初にイメージする�
 
 
 
-126票 | XEM
-58票	| XEM と XYM の両方
-3票	| XYM 
-1票	| ハッキング 
-1票	| nem 
+126票 | XEM<br>
+58票	| XEM と XYM の両方<br>
+3票	| XYM<br>
+1票	| ハッキング<br> 
+1票	| nem<br> 
 1票	| 盗まれた
 
 XEMをイメージされる方が66.3％、XEMとXYMの両方をイメージされる方が30.5%となり、nem自体のことという回答の他、ハッキングおよび盗まれたという回答もいただきました。
@@ -37,13 +37,13 @@ XEMをイメージされる方が66.3％、XEMとXYMの両方をイメージさ�
 
 
 
-176票 | XYM
-4票  | XEM と XYM の両方
-4票  | XEM
-2票	| 象徴
-1票	| カタパルト
-1票	| catapult
-1票	| 一般名詞
+176票 | XYM<br>
+4票  | XEM と XYM の両方<br>
+4票  | XEM<br>
+2票	| 象徴<br>
+1票	| カタパルト<br>
+1票	| catapult<br>
+1票	| 一般名詞<br>
 1票	| 梅宮辰夫のシンボルロック
 
 
@@ -56,7 +56,7 @@ Q1, と比較すると、XYMをイメージする方が92.6％となり、XEMと
 
 
 
-105票	| はい
+105票	| はい<br>
 85票	| いいえ
 
 
@@ -68,7 +68,7 @@ Q1, と比較すると、XYMをイメージする方が92.6％となり、XEMと
 
 
 
-98票	| はい
+98票	| はい<br>
 92票	| いいえ
 
 
@@ -80,7 +80,7 @@ Q1, と比較すると、XYMをイメージする方が92.6％となり、XEMと
 
 
 
-112票	| はい
+112票	| はい<br>
 78票	| いいえ
 
 
@@ -92,7 +92,7 @@ Q1, と比較すると、XYMをイメージする方が92.6％となり、XEMと
 
 
 
-182票 | Symbol ブランドのコンテンツ、製品、ユースケースについて
+182票 | Symbol ブランドのコンテンツ、製品、ユースケースについて<br>
 8票 | NEM ブランドのコンテンツ、製品、ユースケースについて
 
 
@@ -104,9 +104,9 @@ Q1, と比較すると、XYMをイメージする方が92.6％となり、XEMと
 
 
 
-161票  | Symbol
-27票	| NEM
-1票	| Y
+161票  | Symbol<br>
+27票	| NEM<br>
+1票	| Y<br>
 1票	| NEMはもうNEMなので分けて考えるべき　無意味
 
 
@@ -118,31 +118,32 @@ Q1, と比較すると、XYMをイメージする方が92.6％となり、XEMと
 
 
 
-68票 | Symbol
-51票	| Symbol by NEM
-31票	| NEM Symbol
-17票	| Symbol From NEM
-3票	| NEM2
-1票	| NEM
-1票	| XYM
-1票	| NEW NEM
-1票	| 過小評価
-1票	| Symbol The NEM-Over-Technology
-1票	| Y
-1票	| 後述するように Symbol inside
-1票	| symbom from nem
-1票	| nem2
-1票	| catapult
-1票	| NEMより生まれしSymbol
-1票	| NEM Pedigree
-1票	| Symbom from NEM
-1票	| NEM v2
-1票	| syMbol
-1票	| Kunoichi from NEM
-1票	| Symbol fromNEM
-1票	| treasure chest
-1票	| Symbol  From  NEM
-1票	| NEM-Z
+68票 | Symbol<br>
+51票	| Symbol by NEM<br>
+31票	| NEM Symbol<br>
+17票	| Symbol From NEM<br>
+3票	| NEM2<br>
+1票	| NEM<br>
+1票	| XYM<br>
+1票	| NEW NEM<br>
+1票	| 過小評価<br>
+1票	| Symbol The NEM-Over-Technology<br>
+1票	| Y<br>
+1票	| 後述するように Symbol inside<br>
+1票	| symbom from nem<br>
+1票	| nem2<br>
+1票	| catapult<br>
+1票	| NEMより生まれしSymbol<br>
+1票	| NEM Pedigree<br>
+1票	| Symbom from NEM<br>
+1票	| NEM v2<br>
+1票	| syMbol<br>
+1票	| Kunoichi from NEM<br>
+1票	| Symbol fromNEM<br>
+1票	| treasure chest<br>
+1票	| Symbol  From  NEM<br>
+1票	| NEM-Z<br>
+
 Symbol68票、Symbol by NEM51票となり、NEM Symbolは31票でした。また、自由記載欄にはSymbol From NEM（表記揺れ含む）21票あります。
 
 
@@ -156,22 +157,22 @@ Symbol68票、Symbol by NEM51票となり、NEM Symbolは31票でした。また
 
 
 
-1	| 35 票
-2	| 8 票
-3	| 27 票
-4	| 26 票
-5	| 43 票
-6	| 12 票
-7	| 12 票
-8	| 16 票
-9	| 4 票
+1	| 35 票<br>
+2	| 8 票<br>
+3	| 27 票<br>
+4	| 26 票<br>
+5	| 43 票<br>
+6	| 12 票<br>
+7	| 12 票<br>
+8	| 16 票<br>
+9	| 4 票<br>
 10	| 7 票
 
 選択肢の<br>1.どのようなブランディングがなされても私は支持します<br>から<br>10.いかなる変更も受け入れられない<br> の間でそれぞれの度合いを選択していただきました<br>1~5の合計は139票、6〜10の合計は51票となります。
 
 
 
-
+---
 10.- その他。ご自由に入力してください。
 (2021年7月26日20:00日本時間現在）寄せられているご意見に英訳をつけた回答を公表しおります。また、英語で寄せられた回答、日本語と英語にて寄せられた回答はそのまま載せさせていただいております。（順不同、重複回答と思われる回答はひとつとしてあります）
 
