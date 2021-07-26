@@ -1,4 +1,4 @@
-# Community Sentiment Report_ Japanese Community<br>~コミュニティリポート~<br>Symbol ブランディングに関するディスカッション集計  
+# Community Sentiment Report_ Japanese Community<br>コミュニティリポート<br>Symbol ブランディングに関するディスカッション集計  
 
 
 ![](https://i.imgur.com/Vugg237.jpg)
