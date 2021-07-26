@@ -13,8 +13,8 @@ Bangla: https://docs.google.com/forms/d/e/1FAIpQLSerctG09PW2YdZk6OjazJmTBBf7W0T-
 Italian: https://forms.gle/jSyp23TLkX6ptb1f8  
   View Results: https://docs.google.com/forms/d/e/1FAIpQLSfYeZAVixtdx3jja76c7AW2LcaCyWRMNXlWPwDyHFeh-JYt4A/viewanalytics  
   
-Spanish: https://forms.gle/2soFvJjp8NxBiQVb6  
-  View Results: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD06soqmH2Uw1y-lp7YCU3ow/viewanalytics
+Spanish: https://docs.google.com/forms/d/e/1FAIpQLSeBwGfFk4mfvCpFydevIE3J9byl5643A4a8j27k9zJtGM-A2A/viewform
+  View Results: https://docs.google.com/forms/d/e/1FAIpQLSeBwGfFk4mfvCpFydevIE3J9byl5643A4a8j27k9zJtGM-A2A/viewanalytics
 
 Indonesian: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD06soqmH2Uw1y-lp7YCU3ow/viewform
   View Results:
