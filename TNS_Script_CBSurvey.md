@@ -2,7 +2,7 @@
 ### Community Branding Sentiment (CBS), Report Findings
 
 ### Speakers:
-Host: Alexis
+Host: Alexis  
 Analysts: Leon, Oliver, Kristy
 
 ### Description:
@@ -17,7 +17,7 @@ Alexis and Analysts will meet on the channel 10m prior the public broadcast for 
 01.	Brief Intro by Analyst about the study (Why/How) (05min, tops) 
 
 ~~02.	DISCUSSION DYNAMICS OPTIONS~~ 
-a.	Q by Q (DEFAULT MODE) Alexis asks the analyst about each item od the questionnaire. The Analyst exposes findings and specific conclusions on each question. (25 min, tops)
+a.	Q by Q (DEFAULT MODE) Alexis asks the analyst about each item on the questionnaire. The Analyst exposes findings and specific conclusions on each question. (25 min, tops)
 b. MASTER CLASS (IN CASE ANALYST CHOOSE THIS WAY) Analysts share time presenting findings and specific conclusion per Q. (25 min, tops)
 
 03.	Analyst(s) present the general conclusions and impact for the ecosystem (05m)
