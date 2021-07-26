@@ -14,7 +14,7 @@ Italian: https://forms.gle/jSyp23TLkX6ptb1f8
   View Results: https://docs.google.com/forms/d/e/1FAIpQLSfYeZAVixtdx3jja76c7AW2LcaCyWRMNXlWPwDyHFeh-JYt4A/viewanalytics  
   
 Spanish: https://forms.gle/2soFvJjp8NxBiQVb6  
-  View Results:
+  View Results: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD06soqmH2Uw1y-lp7YCU3ow/viewanalytics
 
 Indonesian: https://forms.gle/2soFvJjp8NxBiQVb6
   View Results:
