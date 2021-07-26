@@ -176,7 +176,13 @@ There was considerable support for a "rebrand" of NEM. Perhaps after the initia
 
 A rebrand may or may not include a name change. It could merely be an update to brand colors and imagery.  
   
-Ultimately this would require community effort and funding to advance, taking into consideration the 100s of integrations, thousands of media articles, and countless other information pieces with existing NEM branding.  
+Ultimately this would require community effort and funding to advance, taking into consideration the 100s of integrations, thousands of media articles, and countless other information pieces with existing NEM branding.
+
+Next Steps:
+1. With overwhelming community demand to put focus on the Symbol brand, we will need evaluate options with our social media accounts. If we are able to rename them, that would allow carrying the existing followers to the Symbol account. 
+In some cases we may not be able to rename, and will need to create new accounts. 
+2. Remove "NEM Symbol" and "NEM NIS1" terminology from current branding and documentation.
+3. What else?
 
 **Questions**
 
