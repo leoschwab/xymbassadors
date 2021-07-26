@@ -9,7 +9,7 @@ This is a report on the current community views of the NEM and Symbol brands.
 The information and statistics in this report are sourced from:
 * Community questionnaire via Google form (published in Russian)| <https://docs.google.com/forms/d/e/1FAIpQLSfEfLNyRlEBAcs3kkM_1rx-ZN1tEm3IVKPgy6PhcIkCTkucVQ/viewform?usp=sf_link> ( **You need to take a survey to see the answers**)
 
-  👇 (Answers)
+  👇 Answers:
   https://docs.google.com/spreadsheets/d/1vubzSOlHgK1s6O3sOVi8XDxMm5LKDHjvDsp41sHX5cM/edit?usp=sharing
 * Collating and counting sentiment comments from the NEM Forum
 * NEM Telegram poll (NEMRussian)  <https://t.me/NemRussia/569>
