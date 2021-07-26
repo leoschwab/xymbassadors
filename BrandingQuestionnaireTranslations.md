@@ -16,10 +16,10 @@ Italian: https://forms.gle/jSyp23TLkX6ptb1f8
 Spanish: https://docs.google.com/forms/d/e/1FAIpQLSeBwGfFk4mfvCpFydevIE3J9byl5643A4a8j27k9zJtGM-A2A/viewform
   View Results: https://docs.google.com/forms/d/e/1FAIpQLSeBwGfFk4mfvCpFydevIE3J9byl5643A4a8j27k9zJtGM-A2A/viewanalytics
 
-Indonesian: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD06soqmH2Uw1y-lp7YCU3ow/viewform
-  View Results:
+Indonesian: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD06soqmH2Uw1y-lp7YCU3ow/viewform  
+  View Results: https://docs.google.com/forms/d/e/1FAIpQLScyJgwK3Ta-13vy3ErIli2PJ1OD06soqmH2Uw1y-lp7YCU3ow/viewanalytics  
   
-Chinese: https://t.co/0kiCMBiByt?amp=1
+Chinese: https://t.co/0kiCMBiByt?amp=1  
   View Results:
   
 Taglog: https://docs.google.com/forms/d/e/1FAIpQLSe97i0fexUxel7uK9BspLTyqaKI9YGmahvwfRXN1NM0YTkVAQ/viewform
