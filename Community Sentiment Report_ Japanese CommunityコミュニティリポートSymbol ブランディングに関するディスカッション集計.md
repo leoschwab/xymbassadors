@@ -1,4 +1,4 @@
-# Community Sentiment Report_ Japanese Community<br>コミュニティリポート<br>Symbol ブランディングに関するディスカッション集計  
+# Community Sentiment Report_ Japanese Community<br>~コミュニティリポート~<br>Symbol ブランディングに関するディスカッション集計  
 
 
 ![](https://i.imgur.com/Vugg237.jpg)
@@ -11,29 +11,33 @@ Symbol ブランディングに関するディスカッションはこちら:
 
 
 
-回答数: 166(2021年7月25日12:00日本時間現在）
+回答数: 190(2021年7月26日20:00日本時間現在）
 
 ----
 Q01.- あなたが "NEM" と聞いたとき、一番最初にイメージするものは...
 
-![](https://i.imgur.com/fl9o2QS.png)
+![](https://i.imgur.com/o3pZFLG.png)
 
-106票 | XEM
-55票	| XEM と XYM の両方
-2票	| XYM 
+
+
+126票 | XEM
+58票	| XEM と XYM の両方
+3票	| XYM 
 1票	| ハッキング 
 1票	| nem 
 1票	| 盗まれた
 
-XEMをイメージされる方が64％、XEMとXYMの両方をイメージされる方が33%となり、nem自体のことという回答の他、ハッキングおよび盗まれたという回答もいただきました。
+XEMをイメージされる方が66.3％、XEMとXYMの両方をイメージされる方が30.5%となり、nem自体のことという回答の他、ハッキングおよび盗まれたという回答もいただきました。
 
 ----
 02.- あなたが "Symbol" と聞いたとき、一番最初にイメージするものは...
 
-![](https://i.imgur.com/SIyjXf1.png)
+![](https://i.imgur.com/AoZM514.png)
 
 
-152票 | XYM
+
+
+176票 | XYM
 4票  | XEM と XYM の両方
 4票  | XEM
 2票	| 象徴
@@ -43,60 +47,65 @@ XEMをイメージされる方が64％、XEMとXYMの両方をイメージされ
 1票	| 梅宮辰夫のシンボルロック
 
 
-Q1, と比較すると、XEMをイメージする方は少なくなりました。カタパルトとcatapultは、同じ回答と捉えて差し支えないでしょう。また、一般名詞という回答のほか、歌手の方とその曲名をイメージするというユニークな回答もいただきました。
+Q1, と比較すると、XYMをイメージする方が92.6％となり、XEMとXYMの両方およびXEMをイメージされる方はそれぞれ2.1％です。カタパルトとcatapultは、同じ回答と捉えて差し支えないでしょう。また、一般名詞という回答のほか、歌手の方とその曲名をイメージするというユニークな回答もいただきました。
 
 ----
 03.- "NEM" ブランドの再構築をすべきだと思いますか?
 
-![](https://i.imgur.com/6kCWQnL.png)
+![](https://i.imgur.com/WgQNLXT.png)
 
 
-92票	| はい
-74票	| いいえ
+
+105票	| はい
+85票	| いいえ
 
 
 
 ----
 04.- "NIS1" ブランドの再構築をすべきだと思いますか?
 
-![](https://i.imgur.com/346s1tW.png)
+![](https://i.imgur.com/j3RzC3p.png)
 
 
-87票	| はい
-79票	| いいえ
+
+98票	| はい
+92票	| いいえ
 
 
 
 ----
 05.- "Symbol" ブランドの再構築をすべきだと思いますか?
 
-![](https://i.imgur.com/Cbs2sf3.png)
+![](https://i.imgur.com/50jWzyd.png)
 
 
-94票	| はい
-72票	| いいえ
+
+112票	| はい
+78票	| いいえ
 
 
 
 ----
 06.- あなたがより期待し、見たいものはどちらですか？
 
-![](https://i.imgur.com/33uTxM2.png)
+![](https://i.imgur.com/AAsLsWW.png)
 
 
-159票 | Symbol ブランドのコンテンツ、製品、ユースケースについて
-7票 | NEM ブランドのコンテンツ、製品、ユースケースについて
+
+182票 | Symbol ブランドのコンテンツ、製品、ユースケースについて
+8票 | NEM ブランドのコンテンツ、製品、ユースケースについて
 
 
 
 ----
 07.- どのブランドをフラッグシップブランドにする方が良いと思いますか？ (優先順位をつけるなら)
 
-![](https://i.imgur.com/0tmuae9.png)
+![](https://i.imgur.com/rDxw031.png)
 
 
-140票  | Symbol
-24票	| NEM
+
+161票  | Symbol
+27票	| NEM
 1票	| Y
 1票	| NEMはもうNEMなので分けて考えるべき　無意味
 
@@ -105,13 +114,15 @@ Q1, と比較すると、XEMをイメージする方は少なくなりました�
 ----
 08.- あなたがSymbolのことを表現するなら？
 
-![](https://i.imgur.com/p5PliIx.png)
+![](https://i.imgur.com/6h15c12.png)
 
 
-57票 | Symbol
-42票	| Symbol by NEM
-31票	| NEM 
+
+68票 | Symbol
+51票	| Symbol by NEM
+31票	| NEM Symbol
 17票	| Symbol From NEM
+3票	| NEM2
 1票	| NEM
 1票	| XYM
 1票	| NEW NEM
@@ -127,12 +138,12 @@ Q1, と比較すると、XEMをイメージする方は少なくなりました�
 1票	| Symbom from NEM
 1票	| NEM v2
 1票	| syMbol
-1票	| NEM2
 1票	| Kunoichi from NEM
 1票	| Symbol fromNEM
 1票	| treasure chest
-
-Symbol57票、NEM31票となり、Symbol by NEMは42票でした。自由記載欄に多く上がった回答といたしましては、Symbol From NEM（表記揺れを含む）が20となりました。Symbol by/From NEMを合算すると62票になります。
+1票	| Symbol  From  NEM
+1票	| NEM-Z
+Symbol68票、Symbol by NEM51票となり、NEM Symbolは31票でした。また、自由記載欄にはSymbol From NEM（表記揺れ含む）21票あります。
 
 
 
@@ -140,28 +151,29 @@ Symbol57票、NEM31票となり、Symbol by NEMは42票でした。自由記載�
 09.- あなたは私たちのブランディングの方向性について、どのくらい強く思い入れがありますか？
 （1.どのようなブランディングがなされても私は支持します〜10.いかなる変更も受け入れられない）
 
+![](https://i.imgur.com/HjruGmi.png)
 
-![](https://i.imgur.com/AzAAjTX.png)
 
 
-1	| 29 票
-2	| 7 票
-3	| 26 票
-4	| 23 票
-5	| 36 票
-6	| 10 票
+
+1	| 35 票
+2	| 8 票
+3	| 27 票
+4	| 26 票
+5	| 43 票
+6	| 12 票
 7	| 12 票
-8	| 14 票
-9	| 3 票
+8	| 16 票
+9	| 4 票
 10	| 7 票
 
-選択肢の<br>1.どのようなブランディングがなされても私は支持します<br>から<br>10.いかなる変更も受け入れられない<br> の間でそれぞれの度合いを選択していただきました<br>1~5の合計は120票、6〜10の合計は46票となります.
+選択肢の<br>1.どのようなブランディングがなされても私は支持します<br>から<br>10.いかなる変更も受け入れられない<br> の間でそれぞれの度合いを選択していただきました<br>1~5の合計は139票、6〜10の合計は51票となります。
 
 
 
 
 10.- その他。ご自由に入力してください。
-(2021年7月25日12:00日本時間現在）寄せられているご意見に英訳をつけた回答を公表しおります。また、英語で寄せられた回答、日本語と英語にて寄せられた回答はそのまま載せさせていただいております。（順不同、重複回答と思われる回答はひとつとしてあります）
+(2021年7月26日20:00日本時間現在）寄せられているご意見に英訳をつけた回答を公表しおります。また、英語で寄せられた回答、日本語と英語にて寄せられた回答はそのまま載せさせていただいております。（順不同、重複回答と思われる回答はひとつとしてあります）
 
 * なぜいつまでたってもnemを強調するのか？それは未練でしかない。symbolは名前もxymもピンとこないが始まった以上は全力で進めるべき
 Why do you always keep stressing nem? In my opinion, Both naming of Symbol and XYM are not good, but now it has started, we should go ahead with it.
@@ -545,3 +557,31 @@ Symbol is too generic nouns. In a conference or meeting, when talking about Symb
 Use NEMHUB task more actively. Increase the number of tasks & spread  the videos etc. gathered by the tasks to promote Symbol.
 * ブランドの再構築よりも、symbolが生まれた後の今からのフェーズは、導入実績をわかりやすく公開し、説明、情報共有に注力するとよいかと思います。 ロシェの採用のように、企業導入メリットを伝え、実際にチェーンを使ってもらえる企業さまを増やす。使って頂いてなんぼ。 今までの導入事例と効果を公開できる範囲で公開する。特に貿易関係の会社に猛烈アタック。相性がよすぎる。「大人」を相手にした商売型増益増収ツールのイメージを付ける。NFT分野は競合も多く、放置していても育つと思われる。 自社流通システム構築に億で投下する時代は終了。賢い企業は仮想通貨の仕組み使って合理的なシステム構築をsymbol×nemでしてるよ。的なブランディングだと「仮想通貨＝胡散臭い」と考える「大人」も振り向くのでは？ 国内に限定するとサプライチェーン改革等の助成金使って企業が導入できる仕組みを利用し、導入促進に繋げる事も可能。 国益が上がることがわかれば国も協力的になると思う。素人寄りの意見で申し訳ないです。
 Rather than rebuilding the brand, I think that the phase from now on, after the Symbol has been launched, should focus on publishing, explaining and sharing the results of the introduction in a clear way. Announce the benefits of corporate adoption, such as the adoption of Roche, and increase the number of companies that use the chain actually. It's all about enterprises using it. Show examples of how they have used it and how it works. We are particularly keen on companies in the trade sector. Publishing examples of past installations and their effects as far as you can. We are particularly interested in companies in the trade sector. I think it is the best match. The image of a commercial tool for increasing sales and profits, aimed at "business bases". There is a lot of competition in the NFT field and it will grow even if it is left alone. "The era of investing hundreds of millions in building their own distribution system is over. Smart companies are using the blockchain to build a rational system with symbol×nem."  If the branding is like that, "business bases" who think that "crypto currency = fishy" may turn their attention to it. It is possible to promote the introduction of crypto currency in Japan by using a system that allows companies to use subsidies for supply chain rebuilding. I think the government would be more supportive if they knew that it would benefit the country. I apologise for my amateurish opinion.
+
+* 綺麗事を抜きに盛り上げてください
+Stop saying only "beautiful-sounding phrases",  just make it exciting.
+
+* 作ったばかりのSymbolをまた再構築すると他の投資家がどう見るのか考えた方が良い
+You should think about how investors will perceive the idea of rebuilding the Symbol you have just created.
+* ブランディングは売れてからにしよう！
+Branding comes after the sale!
+* NEM（NIS1）が進化したチェーンがSymbolであるという強いメッセージ性や実績が求められると思います。
+I think there needs to be a strong message that Symbol is the chain  NEM (NIS1) evolved from. And also its track record as well.
+* 何をゴタゴタしてるのでしょうか。毎度毎度ブランディング云々とか…。 一体どこが震源なんでしょうか？ そもそもこんな議論はsymbolの価格がxemよりも下回り、xymホルダーが焦りはじめてることに起因しているだけですよね？ NEMの名前を冠にすれば価格が上がると思いますか？symbolへの期待がxemに流れている？ そんなわけないでしょう？そもそもXEM/NEMだってマイナーな通貨だし、今xym買ってる人なんて我々のようなただの物好きしかいないよ。そもそも良ファンダ出てもまともに買える場所ないんだから。 Symbolがメジャー取引所に上場されはじめ、認知され、扱う企業が増えて評価されていけば価格は自然とxemを上回るはずです。 卵が先か鶏が先かって話になりますけど、価格を上げたいのであれば、まずは取引所にxym/symbolをリストすることに注力することでは？？？上場しただけじゃ上がらんと思うけど前提として買い場がなけりゃ話になりません。
+What are you always messing about with? How many times talking about branding.... Where is the epicenter of all this confusion? 
+Isn't the whole debate just about the fact that XYM price is lower than XEM,  XYM holders are getting impatient? 
+Do you think the price will moon if you name the NEM on it? Do you think people expect that XYM will be replaced by XEM? 
+How can that be? 
+XEM/NEM is also a minor currency and the only people who buy XYM currently are just curious people like us. 
+Even if there is a good fundamental, there is no place to buy it. 
+When Symbol starts to be listed on major exchanges, and will be recognized and valued by more and more enterprises, the price will naturally surpass XEM. 
+It's kind of a question of eggs first or chickens first, but if you want to increase the price, why not focus on listing XYM/Symbol on  exchanges first? I don't think it will raise  just by listing it, but the premise is that if there's no place to buy, there's nothing to talk about.
+* symbolは変です
+Symbol is Weird.
+* コア開発者をはじめ、組織の小ささに不安を覚える
+I'm worried about small organisation, including the core developers.
+* We need a serious discussion and conclusion.
+* シンボルを応援していますが、私は一般人がシンボルを意識せずに使用しているのが理想だと思います。 たとえば物の購入や送金する時に円がいつのまにかXYMに変わり、いつのまにか円に戻っているような、他の仮想通貨には出来ないような社会のシステムになってくれることを期待しています。
+I'm a Symbol fan, but I think the ideal situation would be for the general public to use it without thinking of the Symbol. For example, when you buy something or transfer money, your Yen will be replaced by XYM before you know it, and it will be returned to Yen. I hope that Symbol will be a system for society that other virtual currencies cannot do.
+
+
