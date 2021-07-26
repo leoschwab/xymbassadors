@@ -16,7 +16,8 @@ Symbol ブランディングに関するディスカッションはこちら:
 ----
 Q01.- あなたが "NEM" と聞いたとき、一番最初にイメージするものは...
 
-![](https://i.imgur.com/o3pZFLG.png)
+![image](https://user-images.githubusercontent.com/43064866/126992428-c7f1e487-6ee2-44f5-a6ff-5e4af25fad15.png)
+
 
 
 
