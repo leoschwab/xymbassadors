@@ -26,4 +26,4 @@ Taglog: https://docs.google.com/forms/d/e/1FAIpQLSe97i0fexUxel7uK9BspLTyqaKI9YGm
   View Results:https://docs.google.com/forms/d/e/1FAIpQLSe97i0fexUxel7uK9BspLTyqaKI9YGmahvwfRXN1NM0YTkVAQ/viewanalytics  
   
 Portuguese: https://forms.gle/GtcuimmG2EZaZVYa9
-  View Results:
+  View Results: https://docs.google.com/forms/d/e/1FAIpQLSfxbiVpa3FktiMm2nJNxdOUcy7HkYTIuDFKNgMgljPQhBgoBw/viewanalytics
