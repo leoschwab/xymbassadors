@@ -1,3 +1,11 @@
+[![hackmd-github-sync-badge](https://hackmd.io/PImaZLS-Qt-X13YezmsfKA/badge)](https://hackmd.io/PImaZLS-Qt-X13YezmsfKA)
+
+# **Report on Community Sentiment**
+
+Introduction to what the report is and why it was commissioned. Include the main point of the conclusion. A "TLDR" of sorts.
+
+In this report we will 
+## NEM & Symbol Brand Expression by 3rd Parties
 By documenting the manner in which our brands are presented by 3rd parties, we can better understand the existing brand messaging. The manner in which our brand is displayed by others shows how they interpret our branding, as well as how their customers are introduced to our brands.
 
 **CoinMarketCap**
@@ -178,8 +186,8 @@ A rebrand may or may not include a name change. It could merely be an update to 
   
 Ultimately this would require community effort and funding to advance, taking into consideration the 100s of integrations, thousands of media articles, and countless other information pieces with existing NEM branding.
 
-Next Steps:
-1. With overwhelming community demand to put focus on the Symbol brand, we will need evaluate options with our social media accounts. If we are able to rename them, that would allow carrying the existing followers to the Symbol account. 
+**Next Steps:**
+1. With overwhelming community demand to put focus on the Symbol brand, we will need to evaluate options with our social media accounts. If we are able to rename them, that would allow carrying the existing followers to the Symbol account. 
 In some cases we may not be able to rename, and will need to create new accounts. 
 2. Remove "NEM Symbol" and "NEM NIS1" terminology from current branding and documentation.
 3. What else?
