@@ -6,21 +6,29 @@ This is a report on the current community sentiment on the NEM and Symbol brands
 
 
 Information and statistics for this report were gathered from:
+
 本報告的信息和統計數據來自：
 
 * Community Questionnaire (published in Chinese) | https://docs.google.com/forms/d/12LmQndfCkP6Nkcfr0JpVumxHbL7yeHkq_3F2fWuTaXQ/viewanalytics
-* Collating and counting sentiment comments from the NEM Forum
-* NEM Telegram Poll (NEM::Chinese Official Group (Symbol/&NEM)) | https://t.me/nemtw/29064
-* Partner and exchange communications
-* Observational summary by regional XYMbassadors
-
-
 
 社區問卷（中文版） | https://docs.google.com/forms/d/12LmQndfCkP6Nkcfr0JpVumxHbL7yeHkq_3F2fWuTaXQ/viewanalytics
+
+* Collating and counting sentiment comments from the NEM Forum
+
 整理和統計來自 NEM 論壇的情緒評論
-NEM Telegram Poll (NEM::Chinese Official Group (Symbol/&NEM)) | https://t.me/nemtw/29064
+
+* NEM Telegram Poll (NEM::Chinese Official Group (Symbol/&NEM)) | https://t.me/nemtw/29064
+
+NEM Telegram 電報投票 (NEM::Chinese Official Group (Symbol/&NEM)) | https://t.me/nemtw/29064
+
+* Partner and exchange communications
+
 合作夥伴和交流溝通
+
+* Observational summary by regional XYMbassadors
+
 區域 XYMbassadors 的觀察總結
+
 
 
 ============== Telegram voting ============== 
