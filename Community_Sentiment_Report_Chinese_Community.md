@@ -183,11 +183,11 @@ End
 （截至 2021 年 7 月 27 日日本時間 17:00）我們正在發布答案以及收到的意見的英文翻譯。此外，以英文收到的答復以及以日文和英文收到的答复按原樣張貼。
 （有一個答案似乎沒有特定的順序或重複的答案）
 
-為什麼你總是強調nem？ 只是未開發。 Symbol沒有名字或xym，但只要開始，你就應該盡力而為
+為什麼您總是強調nem？ 在我的觀點，Symbol與XYM的命名不好，但現在已開始，我們應該盡力而為。
 
 Why do you always keep stressing nem? In my opinion, Both naming of Symbol and XYM are not good, but now it has started, we should go ahead with it.
 
-技術在不斷發展，希望那個時候不要後悔，除非我迅速滲透品牌，加快速度。
+技術在不斷發展，我們需要加快速度推出品牌，否則會後悔。
 
 Technology continues to evolve and we need to get our brand out there much faster, otherwise we'll regret the timing.
 
