@@ -9,7 +9,8 @@ Sort and count sentiment comments from the NEM forum
 NEM Telegram Poll (NEM::Chinese Official Group (Symbol/&NEM)) | https://t.me/nemtw/29064
 Partners and communication
 Observation summary of area XYMbassadors
-============== Telegram voting =========================================================================================================================================================================================================================================================================================
+
+============== Telegram voting ==============
 
 Q: (Translation) Do you associate the NEM brand with NIS1 and Symbol? Is there only NIS1? Only Symbol?
 
@@ -23,7 +24,7 @@ NEM = NIS1 & Symbol | 3 votes
 
 Analysis: (6 out of 9 people) connected NEM with Symbol and XYM, and 3 people associate NEM with NIS1 and Symbol. This is the natural answer in a closed environment, where all the population knows the information and structure of the ecosystem. If there is no symbol, the first option NEM = NIS1/XEM will be a healthy association of NIS1/XEM. At present, it seems that the community can’t distinguish the brand. Not so, generally a common popular NEM = Symbol/XYM, but roughly Can distinguish
 
-============== Google Docs vote ======================================================================================================================================================================================================================================================================================
+============== Google Docs vote ==============
 
 Total number of respondents: 17
 
@@ -41,7 +42,8 @@ Observing now, in the market recently, there is still a state of development for
 
 03.-Should "NEM" be renamed?
 
-6 | Yes 11| No
+6 | Yes 
+11| No
 
 The current market friends all love the life NEM brand. It is a brand for many years and a deeply cultivated person. I personally don’t know it, I can only recognize it.
 
