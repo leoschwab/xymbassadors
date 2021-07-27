@@ -14,17 +14,23 @@ Information and statistics for this report were gathered from:
 * Partner and exchange communications
 * Observational summary by regional XYMbassadors
 
+
+
 社區問卷（中文版） | https://docs.google.com/forms/d/12LmQndfCkP6Nkcfr0JpVumxHbL7yeHkq_3F2fWuTaXQ/viewanalytics
 整理和統計來自 NEM 論壇的情緒評論
 NEM Telegram Poll (NEM::Chinese Official Group (Symbol/&NEM)) | https://t.me/nemtw/29064
 合作夥伴和交流溝通
 區域 XYMbassadors 的觀察總結
 
+
 ============== Telegram voting ============== 
+
+
 
 Q: (Translation) Do you associate the NEM Brand with NIS1 and Symbol? With NIS1 only? With Symbol only?
 
 問：您是否將 NEM 品牌與 NIS1 和 Symbol 聯繫起來？只有 NIS1 嗎？只有Symbol？
+
 
 Results:
 
