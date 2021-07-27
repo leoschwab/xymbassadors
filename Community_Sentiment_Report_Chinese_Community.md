@@ -6,7 +6,6 @@ This is a report on the current community sentiment on the NEM and Symbol brands
 
 
 Information and statistics for this report were gathered from:
-
 本報告的信息和統計數據來自：
 
 * Community Questionnaire (published in Chinese) | https://docs.google.com/forms/d/12LmQndfCkP6Nkcfr0JpVumxHbL7yeHkq_3F2fWuTaXQ/viewanalytics
