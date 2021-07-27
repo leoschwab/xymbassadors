@@ -1,126 +1,80 @@
-Community_Sentiment_Report_Chinese_Community.md
+#Community sentiment report_Chinese_Community
 
+This is a report on the current community's views on the NEM and Symbol brands.
 
-#社區情緒報告_中文社區  
+The information and statistics in this report come from:
 
-這是關於當前社區對 NEM 和 Symbol 品牌的看法的報告。
+Community Questionnaire (Chinese)| https://docs.google.com/forms/d/12LmQndfCkP6Nkcfr0JpVumxHbL7yeHkq_3F2fWuTaXQ/viewanalytics
+Sort and count sentiment comments from the NEM forum
+NEM Telegram Poll (NEM::Chinese Official Group (Symbol/&NEM)) | https://t.me/nemtw/29064
+Partners and communication
+Observation summary of area XYMbassadors
+============== Telegram voting =========================================================================================================================================================================================================================================================================================
 
-本報告的信息和統計數據來自：
-* 社區問卷（中文）| <https://docs.google.com/forms/d/12LmQndfCkP6Nkcfr0JpVumxHbL7yeHkq_3F2fWuTaXQ/viewanalytics>
-* 整理和統計來自NEM論壇的情緒評論
-* NEM 電報民意調查 (NEM::中文官方群組(Symbol/&NEM)) | <https://t.me/nemtw/29064>
-* 合作夥伴和交流溝通
-* 區域XYMbassadors的觀察總結
+Q: (Translation) Do you associate the NEM brand with NIS1 and Symbol? Is there only NIS1? Only Symbol?
 
-**==============
-電報投票
-==============**
+result:
 
-問：（翻譯）您是否將 NEM 品牌與 NIS1 和 Symbol 聯繫起來？只有 NIS1 嗎？只有 Symbol？
+NEM = NIS1/XEM | 0 votes
 
-結果：
+NEM = Symbol/XYM | 6 votes
 
-NEM= NIS1/XEM | 0票
+NEM = NIS1 & Symbol | 3 votes
 
-NEM= Symbol/XYM | 6票
+Analysis: (6 out of 9 people) connected NEM with Symbol and XYM, and 3 people associate NEM with NIS1 and Symbol. This is the natural answer in a closed environment, where all the population knows the information and structure of the ecosystem. If there is no symbol, the first option NEM = NIS1/XEM will be a healthy association of NIS1/XEM. At present, it seems that the community can’t distinguish the brand. Not so, generally a common popular NEM = Symbol/XYM, but roughly Can distinguish
 
-NEM= NIS1 & Symbol | 3票
+============== Google Docs vote ======================================================================================================================================================================================================================================================================================
 
-分析：
-(9 人中的 6 人) 將 NEM 與 Symbol 和 XYM 聯繫，有 3 人把 NEM 聯想到 NIS1 和 Symbol。這是在封閉環境中的自然答案，所有人口都知道生態系統信息和結構。
-如果沒有符號，第一個選項 NEM = NIS1/XEM 是將是 NIS1/XEM 健康的關聯，目前看來社區還無法分辨出來品牌，不至於，一般一個常見的流行 NEM = Symbol/XYM，不過大致上可以區分
+Total number of respondents: 17
 
-**==============
-Google文檔投票
-==============**
+01.- When you hear "NEM", the first thing you think about...
 
-被調查者總數：17
+16| XEM 1 | XEM & XYM
 
-----
-01.- 當您聽到“NEM”時，您首先會想到...
+In the previous Symbol, our ecosystem had only one relationship: NEM-or NIS1-blockchain, XEM was the only NEM token at that time.
 
-16| XEM
-1 | XEM & XYM
+02.- When you hear "Symbol", the first thing you think of...
 
-在之前的Symbol中，我們的生態系統只有一個關係：NEM - 或 NIS1- 區塊鏈，XEM 是當時唯一的 NEM 代幣。
+3 | XEM 7 | XYM 7 | XEM & XYM
 
-----
-02.- 當您聽到“Symbol”時，您首先會想到...
+Observing now, in the market recently, there is still a state of development for NEM projects. I am very ignorant of this development. It is very important to know the child, XEM and XYM.
 
-3 | XEM
-7 | XYM
-7 | XEM & XYM
+03.-Should "NEM" be renamed?
 
-現在觀察起來，最近在市場上，對於NEM發展的項目還是出現了狀態，對NEM非常不了解這個發展，需要清楚知道孩子，是ＸＥＭ，什麼是ＸＹＭ，非常重要
+6 | Yes 11| No
 
-----
-03.-“NEM”應該更名嗎？
+The current market friends all love the life NEM brand. It is a brand for many years and a deeply cultivated person. I personally don’t know it, I can only recognize it.
 
-6 | 是
-11| 否
+04.-Should "NIS1" be renamed?
 
-當下的市場朋友都熱愛生活ＮＥＭ品牌，是多年的品牌，深耕的人，我個人也不知道，只能認清
+9 | Yes 8 | No From the answer, it can be said that in the past, the market friends think that it should be renamed to NEM-NIS1. There are also some who hope that it will not be changed. For reference
 
-----
-04.-“NIS1”應該更名嗎？
+05.- Should "Symbol" be renamed?
 
-9 | 是
-8 | 否
-從回答中可以說過去，市場朋友認為應該重新命名為 NEM-NIS1 也有人希望不改變，參考
+17 | No
 
-----
-05.-“Symbol”應該更名嗎？
+All respondents believe that Symbol should be retained. It is found that an accurate understanding of Symbol is easier to associate with the stock code XYM, and the market consensus will not change
 
-17 | 否
+06.- Which do you prefer to watch?
 
-所有被調查者都認為應該保留Symbol。
-發現準確理解Symbol更容易與股票代碼XYM相關聯，市場一致性認同不改變
+9 | Symbol 7 | NEM
 
-----
-06.- 你更喜歡看哪個？
+It seems that he has his own supporters. I hope I "understand" Symbol, because the symbol is the next evolution of the ecosystem, and I hope more people can understand it.
 
-9 | Symbol
-7 | NEM
+07.-Which brand should be the flagship brand? (Priority focus)
 
-看起來自己也有自己的支持者。我希望自己“了解”Symbol，因為符號是生態系統的下一次進化，希望讓更多人了解它。
+8 | Symbol 9 | NEM
 
-----
-07.-哪個品牌應該是旗艦品牌？（優先聚焦）
+If we think of the flagship, it will be the main representative of our ecosystem. Symbol, which has always been popular under the spotlight, therefore believes that there will be new sexual opportunities, but believes that the market also likes NEM as its flagship brand, but in response to future development, it is the best development to use Symbol as the main development.
 
-8 | Symbol
-9 | NEM
+08.- Do you use Symbol as follows: 7 | Symbol 9 | NEM Symbol 1 | Symbol NEM
 
-如果我們認為旗艦，這將是代表我們生態系統的主要代表。
-Symbol這個一直流行的聚光燈下，它因此認為有新的性會，但認為市場也喜歡NEM當旗艦品牌，但因應未來發展，需要以Symbol作主要開發是最好的發展
+More people regard NEM Symbol as a "Symbol". This can help explain why a symbol might become a successful brand, because its association patterns are different, although it seems that there are people who like Symbol and NEM symbols and need to be more clearly distinguished
 
-----
+09.- What is your view of the brand direction we have taken?
 
-08.- 您是否將Symbol如下：
-7 | Symbol
-9 | NEM Symbol
-1 | Symbol NEM
+1 | 0 votes 2 | 0 votes 3 | 0 votes 4 | 0 votes 5 | 2 votes 6 | 3 votes 7 | 1 votes 8 | 2 votes 9 | 2 votes 10| 7 votes
 
+Seeing some concerned about the development of the brand are very popular
 
-更多的人將NEM Symbol視為“Symbol”。
-這可以幫助解釋為什麼符號可能會成為一個成功的品牌，因為它的關聯模式各不相同，雖然看起來都有人喜歡Symbol和NEM符號 
-需要更清楚的分辨
-
----
-09.-您對我們所採取的品牌方向的看法如何？
-
-1 | 0票
-2 | 0票
-3 | 0票
-4 | 0票
-5 | 2票
-6 | 3票
-7 | 1票
-8 | 2票
-9 | 2票
-10| 7票
-
-看一些關心品牌的發展都非常受歡迎
-
-結尾
-
-
+End
