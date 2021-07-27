@@ -21,7 +21,7 @@ NEM = Symbol/XYM      | 6 votes
 NEM = NIS1 & Symbol   | 3 votes
 
 
-Analysis: (6 out of 9 people) connected NEM with Symbol and XYM, and 3 people associate NEM with NIS1 and Symbol. This is the natural answer in a closed environment, where all the population knows the information and structure of the ecosystem. If there is no symbol, the first option NEM = NIS1/XEM will be a healthy association of NIS1/XEM. At present, it seems that the community can’t distinguish the brand. Not so, generally a common popular NEM = Symbol/XYM, but roughly Can distinguish
+Analysis: (6 out of 9 people) connected NEM with Symbol and XYM, and 3 people associate NEM with NIS1 and Symbol. This is the natural answer in a closed environment, where all the population knows the information and structure of the ecosystem. If there is no symbol, the first option NEM = NIS1/XEM will be a healthy association of NIS1/XEM. At present, it seems that the community can’t distinguish the brand. Not so, generally a common popular NEM = Symbol/XYM, but roughly can distinguish
 
 
 ============== Google Docs vote ============== 
@@ -42,27 +42,27 @@ In the previous Symbol, our ecosystem had only one relationship: NEM-or NIS1-blo
 7 | XYM 
 7 | XEM & XYM
 
-Observing now, in the market recently, there is still a state of development for NEM projects. I am very ignorant of this development. It is very important to know the child, XEM and XYM.
+Observing now,there is still a state of development for NEM projects in the market recently. I am very ignorant of this development. It is very important to know what is XEM and what is XYM.
 
 03.- Should "NEM" be rebranded?
 
 6 | Yes 
 11| No
 
-The current market friends all love the life NEM brand. It is a brand for many years and a deeply cultivated person. I personally don’t know it, I can only recognize it.
+The current market friends all love the NEM life brand. It is a brand for many years and a deeply cultivated person. I personally don’t know it, I can only recognize it.
 
 04.- Should "NIS1" be rebranded?
 
 9 | Yes 
 8 | No 
 
-From the answer, it can be said that in the past, the market friends think that it should be renamed to NEM-NIS1. There are also some who hope that it will not be changed. For reference
+From the answer, it can be said that in the past, the friends in the market think that it should be rebranded to NEM-NIS1. t is a brand of years. It supports long-lasting people want to keep NEM name, I think this is very important.
 
 05.- Should "Symbol" be rebranded?
 
 17 | No
 
-All respondents believe that Symbol should be retained. It is found that an accurate understanding of Symbol is easier to associate with the stock code XYM, and the market consensus will not change
+All respondents believe that Symbol should be retained. It is found that an accurate understanding of Symbol is easier to associate with the stock code XYM, and the market consensus will not to change
 
 06.- Which would you prefer to see more of?
 
@@ -76,7 +76,7 @@ It seems that he has his own supporters. I hope I "understand" Symbol, because t
 8 | Symbol 
 9 | NEM
 
-If we think of the flagship, it will be the main representative of our ecosystem. Symbol, which has always been popular under the spotlight, therefore believes that there will be new sexual opportunities, but believes that the market also likes NEM as its flagship brand, but in response to future development, it is the best development to use Symbol as the main development.
+It will be the main representative of our ecosystem. Symbol, which has always been popular under the spotlight, in response to future development, it is the best development to use Symbol as the main development.
 
 08.- Do you refer to Symbol as:
 
@@ -84,7 +84,7 @@ If we think of the flagship, it will be the main representative of our ecosystem
 9 | NEM Symbol
 1 | Symbol NEM
 
-More people regard NEM Symbol as a "Symbol". This can help explain why a symbol might become a successful brand, because its association patterns are different, although it seems that there are people who like Symbol and NEM symbols and need to be more clearly distinguished
+More people regard NEM Symbol as a "Symbol". This can help explain why a symbol might become a successful brand, because its association patterns are different, although it seems that there are people who like Symbol and NEM Symbol and need to be more clearly distinguished
 
 09.- How strongly do you feel about the branding direction we take?
 
