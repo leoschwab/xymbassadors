@@ -17,10 +17,9 @@ Q: (Translation) Do you associate the NEM brand with NIS1 and Symbol? Is there o
 result:
 
 NEM = NIS1/XEM | 0 votes
-
 NEM = Symbol/XYM | 6 votes
-
 NEM = NIS1 & Symbol | 3 votes
+
 
 Analysis: (6 out of 9 people) connected NEM with Symbol and XYM, and 3 people associate NEM with NIS1 and Symbol. This is the natural answer in a closed environment, where all the population knows the information and structure of the ecosystem. If there is no symbol, the first option NEM = NIS1/XEM will be a healthy association of NIS1/XEM. At present, it seems that the community can’t distinguish the brand. Not so, generally a common popular NEM = Symbol/XYM, but roughly Can distinguish
 
